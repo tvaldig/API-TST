@@ -1,0 +1,1001 @@
+id,title,genre,release_year,popularity,developer,publisher,price_per_day,rating
+1,Dead or Alive: Dimensions,Fighting,2011,8.2,Team Ninja,Ubisoft Annecy,8654,T
+2,Yaiba: Ninja Gaiden Z,Action,2014,4.5,"Spark Unlimited, comcept",Tecmo Koei,6113,M
+3,Dynasty Warriors Gundam,Action,2007,6.8,"Koei, Omega Force",Namco Bandai Games,9033,T
+4,Kengo: Master of Bushido,Fighting,2000,8.4,Light Weight,Ubisoft,5044,M
+5,Watch Dogs,Action,2014,6.4,Ubisoft Romania,Ubisoft,8578,M
+6,JU-ON: The Grudge,Action,2009,5.6,FeelPlus,Rising Star Games,6655,M
+7,FIFA Soccer 11,Sports,2010,8,EA Sports,Electronic Arts,8485,E
+8,Sorcery,Action,2012,7.3,The Workshop,Sony Computer Entertainment,5764,E10+
+9,MLB 06: The Show,Sports,2006,8.9,SCEA San Diego Studios,Sony Computer Entertainment,9048,E
+10,Major League Baseball 2K8,Sports,2008,5.6,Kush Games,Bethesda Softworks,5819,E
+11,NCAA Football 2005,Sports,2004,9,EA Sports,Electronic Arts,7108,E
+12,EyeToy Play,Misc,2003,7.5,"SCEE, Zoe Mode",Sony Computer Entertainment,5452,E
+13,Tony Hawk's American Wasteland,Sports,2005,7.7,Neversoft Entertainment,Activision,7546,T
+14,Inversion,Shooter,2012,5.4,Saber Interactive,Namco Bandai Games,9355,M
+15,The Darkness II,Shooter,2012,7.5,Digital Extremes,Take-Two Interactive,6036,M
+16,Need for Speed Rivals,Racing,2013,5.8,Ghost Games,Electronic Arts,6102,E10+
+17,Alias,Action,2004,6,Acclaim Studios Cheltenham,Acclaim Entertainment,8790,T
+18,Kingdoms of Amalur: Reckoning,Role-Playing,2012,7.7,Big Huge Games,Electronic Arts,9500,M
+19,Untold Legends: The Warriors Code,Role-Playing,2006,8.3,Sony Online Entertainment,Ubisoft,9744,T
+20,Six Flags Fun Park,Misc,2009,7.1,7 Studios,Ubisoft,5100,E10+
+21,Cabela's African Safari,Sports,2006,5,FUN Labs,Activision Value,7927,T
+22,Kung Fu Panda,Action,2008,7.8,Beenox,Activision,6358,E10+
+23,Hellboy: The Science of Evil,Action,2008,6.1,Krome Studios,Konami Digital Entertainment,7516,T
+24,Silent Hunter: Wolves of the Pacific,Simulation,2007,6.9,Ubisoft Romania,Ubisoft,5275,T
+25,Sniper Elite V2,Shooter,2012,6.8,Rebellion,505 Games,6227,M
+26,Bee Movie Game,Action,2007,5.8,Beenox,Activision,8916,E
+27,Batman: Rise of Sin Tzu,Action,2003,7.7,Ubisoft Montreal,Ubisoft,5849,T
+28,WWE 2K16,Sports,2015,7.4,Yuke's,Take-Two Interactive,7399,T
+29,Fur Fighters: Viggo's Revenge,Action,2001,7.3,Bizarre Creations,Acclaim Entertainment,6271,T
+30,Mega Man Anniversary Collection,Platform,2005,9.2,Atomic Planet Entertainment,Capcom,7882,E
+31,Dance Central 3,Misc,2012,8,Harmonix Music Systems,Microsoft Game Studios,8666,T
+32,Tony Hawk's Pro Skater 4,Sports,2002,8.5,Neversoft Entertainment,Activision,8892,T
+33,MySims Agents,Adventure,2009,8.6,Electronic Arts,Electronic Arts,5671,E
+34,Hot Wheels: Stunt Track Challenge,Racing,2004,8.1,Climax Group,THQ,5226,E
+35,Harry Potter and the Goblet of Fire,Action,2005,6.7,Electronic Arts,Electronic Arts,9384,E10+
+36,Bullet Witch,Shooter,2006,6.1,Cavia Inc.,Atari,5369,M
+37,NBA Live 08,Sports,2007,6.2,EA Canada,Electronic Arts,6228,E
+38,Catwoman,Action,2004,6.1,Argonaut Games,Electronic Arts,8128,T
+39,Shrek SuperSlam,Action,2005,7.8,Shaba Games,Activision,5491,E10+
+40,WWE SmackDown vs Raw 2008,Fighting,2007,6.6,Amaze Entertainment,THQ,8029,T
+41,IL-2 Sturmovik: Birds of Prey,Simulation,2009,8.4,Gaijin Entertainment,505 Games,7966,T
+42,Chaos Legion,Action,2003,8.2,Capcom,Capcom,5070,T
+43,Metroid Prime Hunters,Shooter,2006,8,Nintendo,Nintendo,7162,T
+44,Wipeout 2048,Racing,2012,8.2,Studio Liverpool,Sony Computer Entertainment,7448,E10+
+45,Dragon Ball Z: Collectible Card Game,Misc,2002,5.5,ImaginEngine,Infogrames,7837,E
+46,State of Emergency 2,Shooter,2006,5.8,DC Studios,SouthPeak Games,6920,M
+47,Tomb Raider: Anniversary,Action,2007,8.3,Crystal Dynamics,Eidos Interactive,9225,T
+48,The Sims: Bustin' Out,Simulation,2003,9,Maxis,Electronic Arts,8583,T
+49,Psi-Ops: The Mindgate Conspiracy,Shooter,2004,8.9,Midway,Midway Games,9528,M
+50,MTV Music Generator 2,Misc,2001,8.5,Jester Interactive,Codemasters,8815,T
+51,The Guy Game,Misc,2004,6.7,Top Heavy Studios,Gathering of Developers,8809,M
+52,Eragon,Action,2006,7.6,Amaze Entertainment,Vivendi Games,6042,T
+53,Ys: Memories of Celceta,Action,2012,8.8,Falcom,Nihon Falcom Corporation,8884,T
+54,Tecmo Bowl: Kickoff,Sports,2008,7.3,Polygon Magic,Tecmo Koei,6401,E
+55,Shin Megami Tensei: Persona,Role-Playing,2009,8,ITL,Atlus,7310,T
+56,All-Star Baseball 2004,Sports,2003,7.5,Acclaim Studios Austin,Acclaim Entertainment,9603,E
+57,Damage Inc.: Pacific Squadron WWII,Simulation,2012,5.5,Mad Catz,Mad Catz,8087,T
+58,Street Fighter V,Fighting,2016,2.9,Capcom,Capcom,7992,T
+59,Marvel: Ultimate Alliance 2,Role-Playing,2009,7.3,Vicarious Visions,Activision,8351,T
+60,Earthworm Jim 2,Platform,2002,5.7,Super Empire,Vivendi Games,6102,E
+61,Damnation,Shooter,2009,2.8,Blue Omega,Codemasters,9479,M
+62,NFL Blitz 20-03,Sports,2002,7.8,Point of View,Midway Games,5469,E
+63,Big Brain Academy,Misc,2005,7.4,Nintendo,Nintendo,8156,E
+64,Skylanders Imaginators,Platform,2016,5.5,Toys for Bob,Activision,6533,E10+
+65,Far Cry: Primal,Action,2016,4.8,Ubisoft Montreal,Ubisoft,8213,M
+66,BioShock The Collection,Shooter,2016,8.5,2K Games,Take-Two Interactive,8198,M
+67,ESPN NBA Basketball,Sports,2003,8.4,Visual Concepts,Sega,6119,E
+68,Remember Me,Action,2013,7.5,DONTNOD Entertainment,Capcom,5606,M
+69,RLH: Run Like Hell,Shooter,2003,8,Digital Mayhem,Avalon Interactive,9538,M
+70,Infamous: First Light,Action,2014,7.5,Sucker Punch,Sony Computer Entertainment,9246,T
+71,Cubivore: Survival of the Fittest,Adventure,2002,8.5,Nintendo,Nintendo,6385,E
+72,Max Payne 3,Shooter,2012,7.8,Rockstar Studios,Take-Two Interactive,6503,M
+73,RIFT,Role-Playing,2011,7.3,Trion Worlds,Unknown,6710,T
+74,nail'd,Racing,2010,7.1,Techland,Deep Silver,8984,E10+
+75,Army of Two: The 40th Day,Shooter,2010,7.3,EA Montreal,Electronic Arts,6243,M
+76,Rio,Misc,2011,7,Eurocom Entertainment Software,THQ,6443,E10+
+77,The Lost Vikings,Puzzle,2003,9.1,Mass Media,Activision,9911,E
+78,Risen 2: Dark Waters,Role-Playing,2012,6,Piranha Bytes,Deep Silver,6396,M
+79,F1 2011,Racing,2011,7.2,Codemasters,Codemasters,7790,E
+80,Borderlands: The Pre-Sequel,Shooter,2014,6.3,2K Australia,Take-Two Interactive,8454,M
+81,How to Train Your Dragon 2,Adventure,2014,4.9,Torus Games,Little Orbit,7614,E10+
+82,The Hobbit,Platform,2003,8.6,Inevitable Entertainment,Vivendi Games,6296,E
+83,Land of the Dead: Road to Fiddler's Green,Shooter,2005,5.8,Brainbox Games,Groove Games,6710,M
+84,LEGO Pirates of the Caribbean: The Video Game,Action,2011,7,Traveller's Tales,Disney Interactive Studios,8384,E10+
+85,Syndicate,Shooter,2012,7.1,Starbreeze,Electronic Arts,9428,M
+86,Hello Kitty: Roller Rescue,Action,2005,6.8,Xpec,Empire Interactive,6362,E
+87,Mortal Kombat: Deadly Alliance,Fighting,2002,8.7,Midway,Midway Games,9827,M
+88,Ephemeral Fantasia,Role-Playing,2000,6.3,KCEJ,Konami Digital Entertainment,5176,T
+89,BeyBlade VForce: Super Tournament Battle,Action,2002,7.5,Takara,Atari,8491,E
+90,F.E.A.R. 3,Shooter,2011,7,Day 1 Studios,Warner Bros. Interactive Entertainment,9297,M
+91,Homefront: The Revolution,Shooter,2016,3.5,Deep Silver Dambuster Studios,Deep Silver,7907,M
+92,Black * Rock Shooter: The Game,Role-Playing,2011,7.2,"Image Epoch, Imageepoch",Unknown,8497,T
+93,Tales of the World: Radiant Mythology,Role-Playing,2006,7.8,Alfa System,Ubisoft,5829,T
+94,The Settlers 7: Paths to a Kingdom,Strategy,2010,5.2,Blue Byte,Ubisoft,9337,E10+
+95,Need for Speed Carbon: Own the City,Racing,2006,7.9,EA Canada,Electronic Arts,6449,E10+
+96,Broken Sword: Shadow of the Templars - The Director's Cut,Adventure,2009,8.1,Revolution Software,Ubisoft,7637,T
+97,Jak and Daxter: The Lost Frontier,Platform,2009,6.3,High Impact Games,Sony Computer Entertainment,5328,E10+
+98,The Godfather II,Action,2009,7.2,EA Redwood Shores,Electronic Arts,6896,M
+99,Suikoden Tierkreis,Role-Playing,2008,7.4,Konami,Konami Digital Entertainment,5519,E10+
+100,James Bond 007: Agent Under Fire,Shooter,2002,7.5,Electronic Arts,Electronic Arts,6151,T
+101,Diablo,Role-Playing,1996,8.7,Blizzard Entertainment,Activision,5646,M
+102,Need for Speed: Hot Pursuit,Racing,2010,6.7,Criterion Games,Electronic Arts,5331,E10+
+103,EyeToy: Kinetic,Sports,2005,8.3,SCEE London Studio,Sony Computer Entertainment,8605,E
+104,WWE SmackDown vs. Raw 2010,Fighting,2009,8.1,Yuke's,THQ,7457,T
+105,MySims SkyHeroes,Action,2010,5.5,Behaviour Interactive,Electronic Arts,7079,E10+
+106,NCAA March Madness 07,Sports,2007,7.1,EA Canada,Electronic Arts,5901,E
+107,ESPN NFL 2K5,Sports,2004,8.2,Visual Concepts,Sega,9985,E
+108,"Ed, Edd n Eddy: The Mis-Edventures",Platform,2005,7.9,Artificial Mind and Movement,Midway Games,8838,E
+109,TMNT: Mutant Melee,Fighting,2005,2.8,Konami Computer Entertainment Hawaii,Konami Digital Entertainment,6725,T
+110,Wave Race: Blue Storm,Racing,2001,8.3,Nintendo,Nintendo,5979,E
+111,The Evil Within,Action,2014,5.9,Tango Gameworks,Bethesda Softworks,6328,M
+112,F1 2015,Racing,2015,6.3,Codemasters,Codemasters,7292,E
+113,Army Men: Major Malfunction,Shooter,2006,4,Team 17,Global Star,9305,T
+114,Plants vs. Zombies: Garden Warfare,Shooter,2014,7.3,PopCap,Electronic Arts,5302,E10+
+115,The Sims 3,Simulation,2010,6.4,Exient Entertainment,Electronic Arts,7335,E
+116,Juiced,Racing,2005,9.1,Juice Games,THQ,5107,T
+117,Pirates of the Caribbean: At World's End,Action,2007,6.9,Eurocom Entertainment Software,Disney Interactive Studios,7260,T
+118,Crash of the Titans,Action,2007,5.8,Radical Entertainment,Vivendi Games,8362,E10+
+119,The Saboteur,Action,2009,8,Pandemic Studios,Electronic Arts,8760,M
+120,Mario Kart 8,Racing,2014,9.1,Nintendo,Nintendo,7933,E
+121,Dragon Ball: Fusions,Role-Playing,2016,7.6,Ganbarion,Namco Bandai Games,5942,T
+122,Peter Jackson's King Kong: The Official Game of the Movie,Action,2005,7.5,Ubisoft Montpellier,Ubisoft,8098,T
+123,Armored Core: For Answer,Simulation,2008,7.7,From Software,Ubisoft,8352,T
+124,Legend of Kay,Action,2005,7.3,Neon Studios,JoWood Productions,8894,E10+
+125,Dishonored 2,Action,2016,6.8,Arkane Studios,Bethesda Softworks,8308,M
+126,Battlefield 4,Shooter,2013,6,EA DICE,Electronic Arts,7177,M
+127,FIFA Soccer 10,Sports,2009,3.8,EA Sports,Electronic Arts,6370,E
+128,Tomb Raider: Legend,Action,2006,7.3,Crystal Dynamics,Eidos Interactive,6842,T
+129,NHL 2002,Sports,2001,8.8,EA Sports,Electronic Arts,5943,E
+130,Tom Clancy's HAWX 2,Action,2010,3.8,Ubisoft,Ubisoft,7040,T
+131,Shadow of Destiny,Adventure,2009,8.2,Konami,Konami Digital Entertainment,6374,T
+132,Kingdoms of Amalur: Reckoning,Role-Playing,2012,7.6,Big Huge Games,Electronic Arts,6262,M
+133,FIFA Soccer 06,Sports,2005,7.8,EA Canada,Electronic Arts,9376,E
+134,Empire Earth,Strategy,2001,8.2,Stainless Steel Studios,Vivendi Games,7566,T
+135,Dokapon Journey,Role-Playing,2008,7,Suzak,Sting,7220,E10+
+136,Gravity Games Bike: Street Vert Dirt,Sports,2002,4.1,Midway,Midway Games,6216,T
+137,Whirl Tour,Sports,2002,7,Papaya Studios,Crave Entertainment,9173,E
+138,Metal Slug 3,Shooter,2004,5.1,SNK,Ignition Entertainment,9558,T
+139,Mercury Meltdown Revolution,Action,2007,7.4,Ignition Entertainment,Ignition Entertainment,5039,E
+140,Shadows of the Damned,Action,2011,8.4,Grasshopper Manufacture,Electronic Arts,5081,M
+141,The Simpsons: Road Rage,Racing,2001,7.7,Fox Interactive,Electronic Arts,7892,T
+142,Phoenix Wright: Ace Attorney Trilogy,Adventure,2014,9,NATSUME ATARI Inc.,Capcom,6542,T
+143,Folklore,Role-Playing,2007,8.2,"Game Republic, JapanStudio",Sony Computer Entertainment,5453,T
+144,Kao the Kangaroo Round 2,Platform,2005,8.7,Tate Interactive,JoWood Productions,6903,E
+145,Port Royale 2,Strategy,2004,7.7,Ascaron Entertainment GmbH,Ascaron Entertainment GmbH,9210,T
+146,Geometry Wars: Galaxies,Shooter,2007,7.9,Kuju Entertainment,Vivendi Games,9832,E
+147,Disgaea DS,Role-Playing,2008,7.5,Nippon Ichi Software,Square Enix,9054,T
+148,LEGO Star Wars III: The Clone Wars,Action,2011,6.1,Traveller's Tales,LucasArts,8944,E10+
+149,The SpongeBob SquarePants Movie,Platform,2004,7.8,Heavy Iron Studios,THQ,9130,E
+150,The Elder Scrolls IV: Oblivion,Role-Playing,2007,8,4J Studios,Ubisoft,5340,M
+151,Twisted Metal: Black,Racing,2001,8.4,Incognito Inc.,Sony Computer Entertainment,9440,M
+152,Tiger Woods PGA Tour 2005,Sports,2004,8.9,EA Sports,Electronic Arts,8562,E
+153,Kung Fu Rider,Action,2010,3.7,SCE Japan Studio,Sony Computer Entertainment,5823,E10+
+154,Call of Duty 3,Shooter,2006,7.4,Treyarch,Activision,9829,T
+155,Naruto Shippuden: Ultimate Ninja Storm Revolution,Fighting,2014,7.3,CyberConnect2,Namco Bandai Games,8826,T
+156,Fate/Extra,Role-Playing,2010,8.1,"Image Epoch, Imageepoch",Marvelous Interactive,6836,T
+157,Sonic Generations,Platform,2011,8.3,"Sega, Sonic Team",Sega,9872,E
+158,Madden NFL 07,Sports,2006,4.2,EA Tiburon,Electronic Arts,5597,E
+159,Football Manager Handheld 2011,Sports,2010,7.7,Sports Interactive,Sega,9655,E
+160,Dungeon Siege III,Role-Playing,2011,4.7,Obsidian Entertainment,Square Enix,6831,T
+161,Commandos 2: Men of Courage,Strategy,2002,8.4,Pyro Studios,Eidos Interactive,7272,T
+162,Dead Island: Riptide,Action,2013,5.9,Techland,Deep Silver,6759,M
+163,Little King's Story,Strategy,2009,8.8,Cing,Rising Star Games,7782,T
+164,Doom 3,Shooter,2005,7.4,Vicarious Visions,Activision,8754,M
+165,Iron Man,Action,2008,6.5,Artificial Mind and Movement,Sega,6851,T
+166,Contra: Shattered Soldier,Shooter,2002,6.6,KCET,Konami Digital Entertainment,7695,T
+167,The Adventures of Tintin: The Game,Action,2011,5.7,Ubisoft Montpellier,Ubisoft,6187,E10+
+168,FIFA Soccer 08,Sports,2007,7.4,EA Canada,Electronic Arts,8615,E
+169,LEGO Marvel Super Heroes,Action,2013,7.6,TT Games,Warner Bros. Interactive Entertainment,7411,E10+
+170,WWE '12,Fighting,2011,5.2,Yuke's,THQ,6705,T
+171,Legaia 2: Duel Saga,Role-Playing,2001,8.4,Prokion,Eidos Interactive,6835,T
+172,Napoleon Dynamite: The Game,Puzzle,2007,4.6,7 Studios,Crave Entertainment,8570,E10+
+173,Call of Duty 3,Shooter,2006,6.9,Treyarch,Activision,7607,T
+174,Army Corps of Hell,Action,2011,6.6,"Entersphere, Inc.",Square Enix,7968,M
+175,Football Manager 2010,Sports,2009,9,Sports Interactive,Sega,7686,E
+176,The King of Fighters XI,Fighting,2006,8.5,SNK Playmore,Ignition Entertainment,6139,T
+177,NHL 16,Sports,2015,6,"EA Sports, EA Canada",Electronic Arts,8541,E10+
+178,Link's Crossbow Training,Shooter,2007,7.1,Nintendo,Nintendo,6169,T
+179,Shiren the Wanderer,Role-Playing,2008,7.6,ChunSoft,Sega,6852,T
+180,Def Jam Icon,Action,2007,6.3,EA Chicago,Electronic Arts,9353,M
+181,Need for Speed: Hot Pursuit 2,Racing,2002,8.3,EA Seattle,Electronic Arts,5120,E
+182,EA Sports Active,Sports,2009,8.7,EA Canada,Electronic Arts,6544,E
+183,Ace Combat 2,Simulation,1997,8.2,Namco,Sony Computer Entertainment,5749,T
+184,Angry Birds Trilogy,Action,2012,3.5,"Rovio Mobile, Rovio Entertainment",Activision,5224,E
+185,World Soccer Winning Eleven 8 International,Sports,2004,8.4,KCET,Konami Digital Entertainment,6853,E
+186,KORG DS-10 Synthesizer,Misc,2008,8.2,AQ Interactive,AQ Interactive,9064,E
+187,Tony Hawk's Pro Skater 3,Sports,2001,7.5,Neversoft Entertainment,Activision,7253,T
+188,Thor: God of Thunder,Action,2011,5.7,Liquid Entertainment,Sega,5880,T
+189,Dynasty Warriors 5,Action,2005,8.8,Omega Force,Tecmo Koei,5086,T
+190,Max Payne,Shooter,2001,8.3,neo Software,Take-Two Interactive,5095,M
+191,Kirby: Triple Deluxe,Platform,2014,8.8,HAL Labs,Nintendo,8895,E
+192,Stake: Fortune Fighters,Fighting,2003,3.7,Gameness Art Software,Metro 3D,6827,T
+193,Driver 2 Advance,Action,2002,6.6,Sennari Interactive,Atari,5424,T
+194,NCAA March Madness 06,Sports,2005,7.2,EA Canada,Electronic Arts,6494,E
+195,MLB 14: The Show,Sports,2014,7.7,SCEA San Diego Studios,Sony Computer Entertainment America,8040,E
+196,Driver: San Francisco,Racing,2011,6.2,Ubisoft Reflections,Ubisoft,8366,T
+197,Anno 1701: Dawn of Discovery,Simulation,2007,7.5,Sunflowers Interactive,Touchstone,8372,E
+198,Metal Gear Solid 3: Snake Eater,Action,2004,9.3,KCEJ,Konami Digital Entertainment,9833,M
+199,Grand Theft Auto IV,Action,2008,6.6,Rockstar Toronto,Take-Two Interactive,8975,M
+200,Thunderstrike: Operation Phoenix,Simulation,2001,8.1,Core Design Ltd.,Eidos Interactive,5280,T
+201,Onimusha 3: Demon Siege,Action,2004,8.6,Capcom,Capcom,5233,M
+202,God of War Collection,Action,2014,7.4,"Sanzaru Games, Sanzaru Games, Inc.",Sony Computer Entertainment,8913,M
+203,Dead Space 2,Shooter,2011,8.4,Visceral Games,Electronic Arts,7845,M
+204,Dungeon Siege III,Role-Playing,2011,5.9,Obsidian Entertainment,Square Enix,6962,T
+205,Mega Man Zero 4,Platform,2005,9.1,Inti,Capcom,7928,E
+206,Blue Dragon,Role-Playing,2006,7.8,"Mistwalker, Artoon",Microsoft Game Studios,8583,T
+207,MLB 15: The Show,Sports,2015,7.8,SCEA San Diego Studios,Sony Computer Entertainment,6579,E
+208,Steins;Gate 0,Adventure,2015,9.3,5pb,PQube,5828,M
+209,Knights Contract,Action,2011,6,Game Republic,Namco Bandai Games,6977,M
+210,Family Guy: Back to the Multiverse,Action,2012,6.4,Heavy Iron Studios,Activision,9673,M
+211,Gravity Rush,Action,2012,8.5,SCE Japan Studio,Sony Computer Entertainment,9804,T
+212,Angry Birds Trilogy,Action,2012,4.6,Exient Entertainment,Activision,7937,E
+213,NBA 2K8,Sports,2007,6,Visual Concepts,Take-Two Interactive,8876,E
+214,NCAA Football 2003,Sports,2002,8.6,EA Sports,Electronic Arts,7564,E
+215,F1 2010,Racing,2010,6.6,Codemasters Birmingham,Codemasters,5792,E
+216,Pro Evolution Soccer 2012,Action,2011,6.6,Konami,Konami Digital Entertainment,5551,E
+217,NBA Live 06,Sports,2005,5.6,EA Canada,Electronic Arts,5408,E
+218,Teenage Mutant Ninja Turtles,Action,2003,8.4,Konami,Konami Digital Entertainment,7349,E
+219,The Sims 3: Generations,Simulation,2011,3.6,The Sims Studio,Electronic Arts,6060,T
+220,Final Fantasy X,Role-Playing,2001,8.7,SquareSoft,Sony Computer Entertainment,6993,T
+221,The Sims,Simulation,2000,7.9,Maxis,Electronic Arts,6364,T
+222,Little League World Series Baseball 2008,Sports,2008,8,Now Production,Activision,6554,E
+223,Onimusha Tactics,Strategy,2003,8.7,Capcom,Capcom,9315,T
+224,Spyro: Season of Ice,Platform,2001,8,Digital Eclipse,Vivendi Games,6921,E
+225,Body and Brain Connection,Misc,2010,4.8,Namco Bandai Games,Namco Bandai Games,8784,E
+226,LEGO Star Wars II: The Original Trilogy,Action,2006,8,Traveller's Tales,LucasArts,5610,E10+
+227,Agatha Christie's The ABC Murders,Adventure,2016,7.5,Microids,Microids,9557,T
+228,NightCaster,Action,2002,5.7,Jaleco Entertainment,Microsoft Game Studios,8963,T
+229,Mobile Suit Gundam: Extreme VS Force,Action,2015,7.3,Bandai Namco Games,Namco Bandai Games,7280,E10+
+230,Zoo Tycoon DS,Strategy,2005,6.6,Altron,THQ,6082,E
+231,Phantom Brave: We Meet Again,Role-Playing,2009,7.1,Nippon Ichi Software,Nippon Ichi Software,5216,T
+232,Seven Samurai 20XX,Action,2004,7,Dimps Corporation,Sega,5230,T
+233,UFC Undisputed 2010,Fighting,2010,7,Yuke's,THQ,7277,T
+234,World Destruction League: Thunder Tanks,Action,2000,1.2,3DO,3DO,9841,T
+235,Mafia III,Action,2016,5.1,Hangar 13,Take-Two Interactive,7699,M
+236,FIFA Soccer 13,Action,2012,6.6,Electronic Arts,Electronic Arts,7930,E
+237,Supreme Commander,Strategy,2007,8.3,Gas Powered Games,THQ,9910,E10+
+238,Tom Clancy's HAWX 2,Action,2010,6.8,Ubisoft,Ubisoft,5621,T
+239,The Powerpuff Girls: Chemical X-Traction,Action,2001,6.3,VIS Entertainment,BAM! Entertainment,9409,E
+240,Mighty No. 9,Platform,2016,4.6,Inti Creates,Deep Silver,8885,E10+
+241,The Wonderful 101,Action,2013,8.5,PlatinumGames,Nintendo,5776,T
+242,SpongeBob SquigglePants 3D,Misc,2011,6,WayForward,THQ,6490,E
+243,Hulk,Action,2003,7.4,Radical Entertainment,Universal Interactive,6735,T
+244,The Wolf Among Us,Adventure,2014,8.4,Telltale Games,Telltale Games,8602,M
+245,Test Drive Unlimited,Racing,2007,8.1,Eden Studios,Atari,5563,T
+246,Prince of Persia: The Sands of Time,Action,2003,8.4,Ubisoft,Ubisoft,5392,T
+247,Hannah Montana: The Movie,Adventure,2009,3.8,n-Space,Disney Interactive Studios,7701,E
+248,Guitar Hero: Warriors of Rock,Misc,2010,7.1,Neversoft Entertainment,Activision,6428,T
+249,Song of the Deep,Action,2016,6.9,Insomniac Games,Insomniac Games,6784,E
+250,Portal Runner,Platform,2001,6.7,3DO,3DO,5396,E
+251,Pokemon Ranger: Shadows of Almia,Role-Playing,2008,8.2,"HAL Labs, Creatures Inc.",Nintendo,6764,E
+252,Romance of the Three Kingdoms IX,Strategy,2003,8.9,Koei,Tecmo Koei,5635,E
+253,Blazing Angels 2: Secret Missions of WWII,Simulation,2007,7.2,Ubisoft Romania,Ubisoft,7686,T
+254,Spore Hero,Simulation,2009,7.1,Maxis,Electronic Arts,8342,E10+
+255,Resident Evil 5,Action,2009,7.5,Capcom,Capcom,9270,M
+256,World Poker Tour,Misc,2005,8.6,Coresoft,Take-Two Interactive,8581,T
+257,Burnout Revenge,Racing,2005,8.4,Criterion Games,Electronic Arts,5684,E10+
+258,Time Crisis 3,Shooter,2003,8.1,Namco,Namco Bandai Games,9922,T
+259,Need for Speed: The Run,Action,2011,6,Black Box,Electronic Arts,7324,T
+260,MySims Kingdom,Simulation,2008,8.1,EA Redwood Shores,Electronic Arts,6495,E
+261,Killer is Dead,Action,2013,7.2,Grasshopper Manufacture,Deep Silver,8236,M
+262,Mario Tennis: Power Tour,Sports,2005,8,Camelot Software Planning,Nintendo,6265,E
+263,Bayonetta,Action,2009,7.7,Nex Entertainment,Sega,8934,M
+264,Dragon Ball Z: Tenkaichi Tag Team,Fighting,2010,8.6,Spike,Namco Bandai Games,8349,T
+265,Sega GT,Racing,2000,7.7,TOSE,Sega,6376,E
+266,Mana Khemia 2: Fall of Alchemy,Role-Playing,2008,8.2,Gust,Gust,6991,T
+267,AirForce Delta Storm,Shooter,2001,7.1,KCE Studios,Konami Digital Entertainment,6682,E
+268,Deus Ex: Human Revolution,Shooter,2011,8.3,Eidos Montreal,Square Enix,7862,M
+269,Cooking Mama: World Kitchen,Simulation,2008,4.9,Cooking Mama Limited,505 Games,5229,E
+270,Beowulf: The Game,Action,2007,5.2,Ubisoft,Ubisoft,9701,M
+271,Puzzle Quest: Challenge of the Warlords,Puzzle,2007,6.2,Vicious Cycle,D3Publisher,6171,E10+
+272,Tiger Woods PGA Tour,Sports,2005,7.4,EA Canada,Electronic Arts,7817,E
+273,Madden NFL 08,Sports,2007,7.8,EA Tiburon,Electronic Arts,5466,E
+274,Nostalgia,Role-Playing,2008,7.6,Matrix Software,Tecmo Koei,6168,E10+
+275,BioShock,Shooter,2007,8.5,"Irrational Games, 2K Marin",Take-Two Interactive,7364,M
+276,Mahjong Cub3D,Puzzle,2011,5.3,SunSoft,Sunsoft,7209,E
+277,Blood Drive,Racing,2010,6.5,Sidhe Interactive,Activision,9436,M
+278,Syphon Filter: Dark Mirror,Shooter,2007,7.8,Sony Bend,Sony Computer Entertainment,8095,T
+279,Operation Flashpoint: Dragon Rising,Shooter,2009,6.5,Codemasters,Codemasters,9233,M
+280,NHL 2004,Sports,2003,6.5,EA Black Box,Electronic Arts,9616,E
+281,Silent Hill 2: Restless Dreams,Action,2001,8.3,KCET,Konami Digital Entertainment,6945,M
+282,EA Sports UFC,Sports,2014,6.1,EA Sports,Electronic Arts,6329,T
+283,Defiance,Shooter,2013,6.5,Trion Worlds,Trion Worlds,7507,M
+284,Harvest Moon: Animal Parade,Simulation,2008,8.9,Natsume,Rising Star Games,5917,E
+285,Hatsune Miku: Project Diva X,Misc,2016,8,Sega,Sega,5969,T
+286,Midnight Club II,Racing,2003,7.6,Rockstar San Diego,Take-Two Interactive,7457,T
+287,Opoona,Role-Playing,2007,7.7,ArtePiazza,Tecmo Koei,6559,E10+
+288,Marvel Nemesis: Rise of the Imperfects,Fighting,2005,5.7,"EA Canada, Nihilistic",Electronic Arts,9980,T
+289,Battlefield 3,Shooter,2011,7.5,EA DICE,Electronic Arts,7639,M
+290,Tom Clancy's Rainbow Six: Lockdown,Shooter,2005,6.6,"Red Storm Entertainment, Ubisoft Montreal",Ubisoft,7785,M
+291,Cars,Racing,2006,2.1,Helixe,THQ,7307,E
+292,Looney Tunes: Sheep Raider,Platform,2001,8.8,Infogrames,Infogrames,7563,E
+293,Namco Museum Remix,Misc,2007,6.3,TOSE,Atari,7010,E
+294,Mage Knight: Destiny's Soldier,Strategy,2006,7.1,Big Blue Bubble Inc.,Namco Bandai Games,7963,E10+
+295,WWE SmackDown vs. Raw 2009,Fighting,2008,8.5,Yuke's,THQ,8152,T
+296,Resident Evil 5,Action,2009,7.1,Capcom,Capcom,7102,M
+297,Giants: Citizen Kabuto,Shooter,2001,6.9,Digital Mayhem,Interplay,8034,T
+298,MX vs. ATV Untamed,Racing,2007,6.1,Rainbow Studios,THQ,7411,E
+299,WinBack: Covert Operations,Shooter,2000,7.7,Omega Force,Midas Interactive Entertainment,9503,T
+300,Invizimals,Strategy,2009,7.3,Novarama,Sony Computer Entertainment,8566,E10+
+301,DJ Hero 2,Misc,2010,7.8,FreeStyleGames,Activision,9538,T
+302,FIFA Soccer 2005,Sports,2004,8.5,EA Canada,Electronic Arts,5529,E
+303,Call of Duty: Finest Hour,Shooter,2004,7.8,Spark Unlimited,Activision,7747,T
+304,Operation Flashpoint: Elite,Shooter,2005,8.3,Bohemia Interactive,Codemasters,6064,T
+305,BattleForge,Strategy,2009,7,EA Phenomic,Electronic Arts,7874,T
+306,Burnout,Racing,2002,6.6,Criterion Games,Acclaim Entertainment,8626,E
+307,Iron Man 2,Action,2010,4.6,High Voltage Software,Sega,8459,T
+308,Looney Tunes: Acme Arsenal,Action,2007,6.8,Red Tribe,Warner Bros. Interactive Entertainment,5922,E10+
+309,Time Crisis: Project Titan,Shooter,2001,6.7,Flying Tiger Development,Namco Bandai Games,8914,T
+310,Gauntlet: Dark Legacy,Action,2001,8.3,Midway,Midway Games,7045,T
+311,Advance Wars 2: Black Hole Rising,Strategy,2003,9.4,Intelligent Systems,Nintendo,5218,E
+312,Far Cry: Primal,Action,2016,6.3,Ubisoft Montreal,Ubisoft,8317,M
+313,MotorStorm: Arctic Edge,Racing,2009,8.8,Bigbig Studios,Sony Computer Entertainment,6552,T
+314,inFAMOUS 2,Action,2011,8.4,Sucker Punch,Sony Computer Entertainment,8259,T
+315,Beyond: Two Souls,Adventure,2013,8.1,Quantic Dream,Sony Computer Entertainment,5796,M
+316,Blazblue: Continuum Shift Extend,Fighting,2011,7.5,Arc System Works,PQube,9108,T
+317,Smash Court Tennis 3,Sports,2007,6.3,"Namco Bandai Games America, Namco Bandai Games",Namco Bandai Games,6111,E
+318,Front Mission Evolved,Shooter,2010,5.1,Double Helix Games,Square Enix,6288,T
+319,2002 FIFA World Cup,Sports,2002,7.7,EA Sports,Electronic Arts,5775,E
+320,NFL Street 2 Unleashed,Sports,2005,7.4,EA Tiburon,Electronic Arts,8425,E
+321,Marvel: Ultimate Alliance,Role-Playing,2006,7.5,Raven Software,Activision,6816,T
+322,NBA Live 2003,Sports,2002,8.3,EA Canada,Electronic Arts,7157,E
+323,Stormrise,Strategy,2009,5.3,Creative Assembly,Sega,7066,M
+324,Pac-Man World Rally,Racing,2006,7.8,Smart Bomb Interactive,Namco Bandai Games,7995,E
+325,Batman: Arkham Origins,Action,2013,7.7,WB Games Montreal,Warner Bros. Interactive Entertainment,8373,T
+326,Mat Hoffman's Pro BMX 2,Sports,2002,9.1,Rainbow Studios,Activision,9731,T
+327,Blazing Angels: Squadrons of WWII,Simulation,2007,6.7,Ubisoft,Ubisoft,6564,T
+328,Freestyle Metal X,Racing,2003,8.3,Deibus Studios,Midway Games,6239,T
+329,World of Warcraft: Cataclysm,Role-Playing,2010,5.6,Blizzard Entertainment,Activision,6852,T
+330,Ghostbusters: The Video Game,Action,2009,8.5,Red Fly Studio,Atari,6767,E10+
+331,Dead or Alive Paradise,Misc,2010,5.6,"Team Ninja, Tecmo",Ubisoft Annecy,7219,M
+332,Red Faction: Armageddon,Shooter,2011,6.7,Volition Inc.,THQ,6575,M
+333,World in Conflict,Strategy,2007,8.1,Massive Entertainment,Vivendi Games,7820,T
+334,Darksiders II,Action,2012,8.2,Vigil Games,THQ,8826,M
+335,Scaler,Platform,2004,7.3,Artificial Mind and Movement,Take-Two Interactive,6699,E
+336,Sniper: Ghost Warrior 2,Shooter,2013,5.8,City Interactive,City Interactive,5407,M
+337,Art Academy: Home Studio,Misc,2015,8.3,Headstrong Games,Nintendo,7852,E
+338,CSI: Fatal Conspiracy,Adventure,2010,5.6,Telltale Games,Ubisoft,9765,M
+339,Voodoo Vince,Platform,2003,8.4,Beep Industries,Microsoft Game Studios,9198,T
+340,The Binding of Isaac,Action,2012,8.3,"Edmund McMillen, Florian Himsl",Unknown,7907,T
+341,Def Jam Rapstar,Misc,2010,5.4,"Terminal Reality, 4mm Games",Konami Digital Entertainment,6808,T
+342,F.E.A.R. 3,Shooter,2011,7.1,Day 1 Studios,Warner Bros. Interactive Entertainment,5733,M
+343,Need For Speed: High Stakes,Racing,1999,8.5,EA Canada,Electronic Arts,9600,E
+344,Final Fantasy Tactics: The War of the Lions,Role-Playing,2007,8,TOSE,Square Enix,6258,T
+345,Gears of War 4,Shooter,2016,6.2,The Coalition,Microsoft Game Studios,9159,M
+346,Superman Returns,Action,2006,6.2,EA Tiburon,Electronic Arts,5341,T
+347,Major League Baseball 2K5,Sports,2005,7.4,Kush Games,Take-Two Interactive,8300,E
+348,Sonic Rivals,Racing,2006,7.8,Backbone Entertainment,Sega,8944,E
+349,Star Ocean: Till The End of Time,Role-Playing,2003,7.7,Tri-Ace,Ubisoft,7129,T
+350,FIFA Soccer 2003,Sports,2002,6.7,EA Canada,Electronic Arts,7856,E
+351,Rock Revolution,Misc,2008,5.1,"Zoe Mode, HB Studios Multimedia",Konami Digital Entertainment,7288,T
+352,MLB Front Office Manager,Sports,2009,4.6,Blue Castle Games,Take-Two Interactive,6490,E
+353,Spider-Man: Mysterio's Menace,Action,2001,8.7,Vicarious Visions,Activision,9493,E
+354,G1 Jockey 3,Sports,2002,9,Koei/Inis,THQ,8105,E
+355,Luigi's Mansion: Dark Moon,Action,2013,8.4,Next Level Games,Nintendo,6830,E
+356,The Sims 2,Simulation,2005,7.5,Maxis,Electronic Arts,9224,E10+
+357,Deadpool,Action,2013,7.2,High Moon Studios,Activision,8130,M
+358,Madden NFL 2001,Sports,2000,6.8,EA Sports,Electronic Arts,8444,E
+359,The Legend of Heroes II: Prophecy of the Moonlight Witch,Role-Playing,2004,6.9,Microvision,Namco Bandai Games,8493,E10+
+360,The Crew: Wild Run,Action,2015,6.6,Ivory Tower,Ubisoft,8878,T
+361,Fable II,Role-Playing,2008,6.5,Lionhead Studios,Microsoft Game Studios,9168,M
+362,DJ Hero 2,Misc,2010,7.5,FreeStyleGames,Activision,9158,T
+363,Major League Baseball 2K9,Sports,2009,5.3,2K Sports,Spike,5401,E
+364,The LEGO Movie Videogame,Action,2014,6.8,TT Games,Warner Bros. Interactive Entertainment,5737,E10+
+365,Blazblue: Continuum Shift Extend,Fighting,2011,7.5,Arc System Works,PQube,9494,T
+366,LEGO Indiana Jones: The Original Adventures,Action,2008,7.7,Traveller's Tales,Activision,8478,E10+
+367,4x4 EVO 2,Racing,2001,6.2,Terminal Reality,Gathering of Developers,8982,E
+368,LEGO Batman: The Videogame,Action,2008,8,TT Fusion,Warner Bros. Interactive Entertainment,9243,E10+
+369,Dishonored,Action,2012,7.9,Arkane Studios,Bethesda Softworks,6249,M
+370,Tony Hawk's Pro Skater 3,Sports,2002,8,Vicarious Visions,Activision,8531,E
+371,Pac-Man World 3,Platform,2005,5.2,Blitz Games,Namco Bandai Games,6196,E
+372,Need for Speed Rivals,Racing,2013,4.9,Ghost Games,Electronic Arts,5259,E10+
+373,Pro Evolution Soccer 2008,Sports,2008,8.4,Konami,Konami Digital Entertainment,8994,E
+374,EA Sports UFC 2,Sports,2016,6.2,EA Sports,Electronic Arts,5119,T
+375,Ford Racing 3,Racing,2004,6.6,Razorworks Studios,Take-Two Interactive,5306,E
+376,The Walking Dead: Survival Instinct,Shooter,2013,3.6,Terminal Reality,Activision,6979,M
+377,Samurai Shodown Sen,Fighting,2009,5.2,K2 LLC,Rising Star Games,5693,M
+378,Constantine,Action,2005,7.4,Bits Studios,SCi,9236,M
+379,2002 FIFA World Cup,Sports,2002,5.6,EA Sports,Electronic Arts,9307,E
+380,AirForce Delta Strike,Simulation,2004,7,KCE Studios,Konami Digital Entertainment,6710,T
+381,NCAA Football 10,Sports,2009,6.7,EA Tiburon,Electronic Arts,6106,E
+382,Culdcept,Strategy,2002,8.9,NEC Interchannel,Sega,7423,T
+383,AMF Bowling 2004,Sports,2003,4.4,T,Mud Duck Productions,8058,T
+384,State of Emergency,Action,2003,6.3,VIS Entertainment,Take-Two Interactive,7664,M
+385,Disney's Donald Duck: Goin' Quackers,Platform,2002,3,Ubisoft Montreal,Ubisoft,7843,E
+386,Drakengard 2,Role-Playing,2005,5.5,Cavia Inc.,Ubisoft,7441,M
+387,ATV Quad Power Racing 2,Racing,2003,9,Climax Group,Acclaim Entertainment,7889,E
+388,Michael Jackson: The Experience,Misc,2011,8.4,Ubisoft Montreal,Ubisoft,5654,E10+
+389,Zumba Fitness,Sports,2010,5.5,"Pipeworks Software, Inc.",505 Games,5382,E
+390,V-Rally 3,Racing,2002,7.4,Eden Studios,Atari,5499,E
+391,Game Party: Champions,Action,2012,3.5,"Phosphor Games Studio, LLC",Warner Bros. Interactive Entertainment,8151,E
+392,Avalon Code,Role-Playing,2008,7.4,"Matrix Software, Marvelous Entertainment",Rising Star Games,6809,E10+
+393,Spider-Man 2,Action,2004,7.7,Digital Eclipse,Activision,5864,E
+394,Hail to the Chimp,Misc,2008,4.5,Wideload Games Inc.,Gamecock,7644,T
+395,SOCOM: U.S. Navy SEALs Fireteam Bravo,Shooter,2005,8.6,Zipper Interactive,Sony Computer Entertainment,8489,M
+396,Chessmaster,Misc,2004,9,Ubisoft,Ubisoft,5710,E
+397,The Matrix: Path of Neo,Action,2005,7.9,Shiny Entertainment,Atari,8615,T
+398,Super Street Fighter IV: 3D Edition,Fighting,2011,8.1,Capcom,Capcom,7944,T
+399,Star Wars: Bounty Hunter,Shooter,2002,7.6,LucasArts,LucasArts,5874,T
+400,Drakengard 3,Role-Playing,2013,7.7,Access Games,Square Enix,6533,M
+401,Rogue Ops,Action,2003,9.2,Bits Studios,Kemco,9632,M
+402,Metal Gear Solid V: Ground Zeroes,Action,2014,5.9,Kojima Productions,Konami Digital Entertainment,7059,M
+403,Age of Conan: Rise of the Godslayer,Role-Playing,2010,8.4,Funcom,Funcom,6502,M
+404,NBA Street V3,Sports,2005,8.4,EA Canada,Electronic Arts,9585,E
+405,Surfing H3O,Sports,2000,4.6,Opus,Take-Two Interactive,9129,E
+406,Call of Duty: World at War,Shooter,2008,7.6,Treyarch,Activision,8007,M
+407,NBA Live 10,Sports,2009,7.5,EA Canada,Electronic Arts,9696,E
+408,Super Mario Galaxy,Platform,2007,8.9,Nintendo,Nintendo,8668,E
+409,Remember Me,Action,2013,7.4,DONTNOD Entertainment,Capcom,7878,M
+410,Mortal Kombat: Tournament Edition,Fighting,2003,8.1,Criterion Games,Midway Games,8211,M
+411,NBA 2K6,Action,2005,8.6,Visual Concepts,Take-Two Interactive,5752,E
+412,Toy Story Racer,Racing,2001,8.7,Traveller's Tales,Activision,8191,E
+413,Doom,Shooter,1992,8.2,id Software,id Software,6421,M
+414,Dragon Age II,Action,2011,4.5,BioWare,Electronic Arts,6319,M
+415,Mega Man Battle Network,Role-Playing,2001,8.9,Capcom,Capcom,6493,E
+416,Crysis 3,Shooter,2013,6.7,Crytek,Electronic Arts,8593,M
+417,FIFA Soccer 2004,Sports,2003,7.9,Exient Entertainment,Electronic Arts,9296,E
+418,Cabela's Dangerous Hunts 2009,Sports,2008,1.8,FUN Labs,Activision Value,8151,T
+419,Jenga World Tour,Misc,2007,2.8,Atomic Planet Entertainment,Atari,8071,E
+420,NBA 2K7,Sports,2006,7.8,"Kush Games, Visual Concepts",Take-Two Interactive,8023,E
+421,NASCAR Thunder 2003,Racing,2002,6.6,EA Sports,Electronic Arts,9892,E
+422,Airborne Troops: Countdown to D-Day,Shooter,2005,8.1,WideScreen Games,Playlogic Game Factory,8310,T
+423,Oddworld: Munch's Oddysee,Platform,2001,8.7,Oddworld Inhabitants,Atari,7247,T
+424,WWE Crush Hour,Racing,2003,7,Pacific Coast Power & Light,THQ,7888,T
+425,NBA 2K16,Sports,2015,6.2,Visual Concepts,Take-Two Interactive,9663,E10+
+426,Fallout 3,Role-Playing,2008,7.9,Bethesda Game Studios,Bethesda Softworks,5644,M
+427,Teenage Mutant Ninja Turtles: Mutants in Manhattan,Action,2016,6,PlatinumGames,Activision,6124,T
+428,Call of Duty: World at War,Shooter,2008,7.5,Treyarch,Activision,5646,M
+429,DK: King of Swing,Platform,2005,5,Paon Corporation,Nintendo,7161,E
+430,NBA Inside Drive 2003,Sports,2002,7.8,High Voltage Software,Microsoft Game Studios,9428,E
+431,Fight Club,Fighting,2004,4.7,Genuine Games,Vivendi Games,8423,M
+432,7 Days to Die,Action,2016,5.2,The Fun Pimps Entertainment LLC,Telltale Games,8193,M
+433,Battleborn,Shooter,2016,6.9,Gearbox Software,Take-Two Interactive,7417,T
+434,Disney's Extreme Skate Adventure,Sports,2003,7.6,Toys for Bob,Activision,5432,E
+435,Tom Clancy's Rainbow Six: Siege,Shooter,2015,7.3,Ubisoft Montreal,Ubisoft,5390,M
+436,CSI: Crime Scene Investigation,Adventure,2004,7.3,369 Interactive,Ubisoft,7559,M
+437,Guitar Hero 5,Misc,2009,6.9,Vicarious Visions,Activision,7081,T
+438,Death Jr. and the Science Fair of Doom,Platform,2007,7.5,Foundation 9 Entertainment,Konami Digital Entertainment,6394,E10+
+439,NHL 08,Action,2007,6.9,EA Canada,Electronic Arts,7178,E10+
+440,Crysis: Warhead,Shooter,2008,7.9,Crytek,Electronic Arts,5860,M
+441,Resistance: Burning Skies,Shooter,2012,6.8,Nihilistic,Sony Computer Entertainment,6398,M
+442,Crash Team Racing,Racing,1999,9,Naughty Dog,Sony Computer Entertainment,7537,E
+443,Shin Megami Tensei: Nocturne,Role-Playing,2003,8.7,Atlus Co.,Ghostlight,6111,M
+444,JSRF: Jet Set Radio Future,Action,2002,8.2,Smilebit,Sega,8659,T
+445,Superman: Shadow of Apokolips,Action,2002,7.2,Atari,Atari,5639,E
+446,Castlevania: Aria of Sorrow,Platform,2003,9.1,KCET,Konami Digital Entertainment,6294,T
+447,Dead to Rights II,Shooter,2005,5.3,WideScreen Games,Electronic Arts,9175,M
+448,Bionic Commando,Platform,2009,7.3,GRIN,Capcom,8206,M
+449,Lost: Via Domus,Action,2008,6.9,Ubisoft Montreal,Ubisoft,9478,T
+450,Heroes over Europe,Simulation,2009,7,"Atari, Transmission Games, Atari SA",Ubisoft,7022,T
+451,College Hoops 2K8,Sports,2007,6.9,Visual Concepts,Take-Two Interactive,8879,E
+452,Ghost in the Shell: Stand Alone Complex,Adventure,2005,7.4,G-Artists,Atari,8549,T
+453,Rogue Warrior,Shooter,2009,2.8,Rebellion,Bethesda Softworks,8282,M
+454,Pac-Man Fever,Misc,2001,6.3,Mass Media,Sony Computer Entertainment,9522,E
+455,InuYasha: Secret of the Divine Jewel,Role-Playing,2007,7.6,Art,Namco Bandai Games,8437,E10+
+456,Theresia...,Adventure,2008,8,WorkJam,Arc System Works,8835,M
+457,Stuntman,Racing,2002,5.7,Reflections Interactive,Atari,5995,T
+458,JoJo's Bizarre Adventure: Eyes of Heaven,Fighting,2015,7.4,CyberConnect2,Namco Bandai Games,6959,T
+459,Tokyo Jungle,Action,2012,8.4,Crispy's,Sony Computer Entertainment,9338,T
+460,Assassin's Creed: Revelations,Action,2011,7.5,Ubisoft Montreal,Ubisoft,9276,M
+461,The Polar Express,Adventure,2004,4.3,Blue Tongue,THQ,9821,E
+462,Mafia II,Action,2010,7.9,2K Czech,Take-Two Interactive,5423,M
+463,Beowulf: The Game,Action,2007,5.4,Virtuos,Ubisoft,7175,M
+464,Guitar Hero: On Tour Decades,Misc,2008,8,Vicarious Visions,Activision,8839,E10+
+465,Pac-Man World Rally,Racing,2006,7.4,Smart Bomb Interactive,Namco Bandai Games,6748,E
+466,Tales of Destiny II,Role-Playing,2000,8.7,Namco,Namco Bandai Games,8146,T
+467,Brain Challenge,Misc,2008,7,Ubisoft,Ubisoft,8614,E
+468,Backyard Wrestling: Don't Try This at Home,Fighting,2003,7.8,Paradox Development,Eidos Interactive,5105,M
+469,Bolt,Adventure,2008,6.8,Avalanche Software,Disney Interactive Studios,6794,E10+
+470,X-Men: Destiny,Action,2011,5,Silicon Knights,Activision,5370,T
+471,NERF N-Strike,Shooter,2008,4.4,"EA Redwood Shores, EA Salt Lake",Electronic Arts,6721,E10+
+472,Rapala Tournament Fishing!,Sports,2006,8,FUN Labs,Activision,5853,E
+473,Venetica,Role-Playing,2009,6.8,Deck 13,DTP Entertainment,9252,T
+474,2010 FIFA World Cup South Africa,Sports,2010,6.7,Electronic Arts,Electronic Arts,7975,E
+475,WWII Aces,Simulation,2008,5.4,Arcade Moon,Destineer,8336,T
+476,Viewtiful Joe,Action,2003,8.3,Clover Studio,Capcom,6641,T
+477,Wall-E,Platform,2008,5,Heavy Iron Studios,THQ,5999,E
+478,Sonic Rush Adventure,Platform,2007,8.2,Dimps Corporation,Sega,8186,E
+479,Dead to Rights II,Shooter,2005,7.4,Namco,Electronic Arts,8226,M
+480,Ni no Kuni: Wrath of the White Witch,Role-Playing,2011,8.6,Level 5,Namco Bandai Games,9362,E10+
+481,Rayman Legends,Platform,2014,8.4,Ubisoft Montpellier,Ubisoft,7269,E10+
+482,DriveClub,Racing,2014,6.1,Evolution Studios,Sony Computer Entertainment,5259,E
+483,Payday 2,Shooter,2013,3.4,Overkill Software,505 Games,7169,M
+484,Metal Gear Solid: Digital Graphic Novel,Misc,2006,7.2,Kojima Productions,Konami Digital Entertainment,9046,M
+485,Natural Doctrine,Role-Playing,2014,7.5,Kadokawa,Nippon Ichi Software,6757,M
+486,Persona 4: Dancing All Night,Misc,2015,8.6,"Atlus, Dingo Inc.",Nippon Ichi Software,6081,T
+487,Crimson Sea,Action,2002,8.2,Koei,Tecmo Koei,7999,T
+488,Mortal Kombat: Deception,Fighting,2005,8.9,Midway,Midway Games,5358,M
+489,HBO Boxing,Fighting,2000,4,Osiris Studios,Acclaim Entertainment,9103,E
+490,Dragon Ball Z: Budokai 2,Fighting,2003,8.2,Dimps Corporation,Atari,7057,T
+491,WWE 2K16,Sports,2015,5.7,Yuke's,Take-Two Interactive,5158,T
+492,Virtua Tennis 4,Sports,2011,6.2,Sega,Sega,8312,E
+493,NCAA Football 09,Sports,2008,7.3,EA Tiburon,Electronic Arts,8022,E
+494,Two Worlds II,Role-Playing,2011,6.6,Reality Pump,Unknown,8796,M
+495,Bodycount,Shooter,2011,3.5,Guildford Studio,Codemasters,9314,M
+496,BlazBlue Central Fiction,Fighting,2016,7.6,Arc System Works,PQube,6302,T
+497,NHL Hitz 20-03,Sports,2002,8.4,Midway,Midway Games,7103,E
+498,Call of Duty: Infinite Warfare,Shooter,2016,3.1,Infinity Ward,Activision,5704,M
+499,Front Mission 4,Strategy,2003,8.6,Square Enix,Square Enix,8435,T
+500,Madden NFL 09,Sports,2008,7,EA Tiburon,Electronic Arts,5897,E
+501,uDraw Studio: Instant Artist,Misc,2011,5.7,THQ,THQ,5374,E
+502,Animal Crossing: Wild World,Simulation,2005,8.7,Nintendo,Nintendo,7338,E
+503,Kingdom Hearts 3D: Dream Drop Distance,Action,2012,8.2,Square Enix,Square Enix,9242,E10+
+504,Robocalypse,Strategy,2008,8.6,Vogster,Tecmo Koei,5923,E10+
+505,World Series of Poker 2008: Battle for the Bracelets,Misc,2007,6.7,Left Field Productions,Activision,5432,T
+506,River City Ransom EX,Action,2004,8.4,Million,Atlus,9831,T
+507,Teenage Mutant Ninja Turtles,Action,2003,8.7,KCE Studios,Konami Digital Entertainment,9343,E
+508,NCAA Football 2005,Sports,2004,8.8,EA Tiburon,Electronic Arts,6150,E
+509,Onechanbara Z2: Chaos,Action,2014,6.5,"Tamsoft, D3Publisher",Nippon Ichi Software,9988,M
+510,Game Party 2,Misc,2008,4.6,Midway,Midway Games,7864,E
+511,SpongeBob SquarePants: Battle for Bikini Bottom,Platform,2003,8.9,Heavy Iron Studios,THQ,5225,E
+512,Grand Theft Auto III,Action,2001,8.5,DMA Design,Take-Two Interactive,6153,M
+513,The Walking Dead: Survival Instinct,Shooter,2013,4,Terminal Reality,Activision,5419,M
+514,Star Wars Battlefront: Elite Squadron,Shooter,2009,8,Savage Entertainment,LucasArts,5649,T
+515,Pirates of the Caribbean: At World's End,Action,2007,7,Eurocom Entertainment Software,Disney Interactive Studios,8658,T
+516,Dynasty Warriors: Strikeforce,Action,2009,6.8,Omega Force,Ubisoft Annecy,6695,T
+517,Final Fantasy Tactics Advance,Role-Playing,2003,7.8,Square Enix,SquareSoft,7587,E
+518,Batman: Arkham Knight,Action,2015,7.6,Rocksteady Studios,Warner Bros. Interactive Entertainment,7646,M
+519,WWE SmackDown vs. Raw 2010,Fighting,2009,8.4,Yuke's,THQ,9002,T
+520,Shark Tale,Action,2004,6.5,Edge of Reality,Activision,8338,E
+521,Arcana Heart,Fighting,2007,8.1,Examu,AQ Interactive,5604,T
+522,Naruto Shippuden: Ultimate Ninja Storm 3,Fighting,2013,7.7,CyberConnect2,Namco Bandai Games,7997,T
+523,F1 Race Stars,Racing,2012,5.7,Codemasters,Codemasters,6368,E
+524,Skylanders Giants,Action,2012,7,Toys for Bob,Activision,6592,E10+
+525,Resident Evil 3: Nemesis,Action,2003,8.3,Capcom,Capcom,6631,M
+526,Cars,Racing,2006,7,Locomotive Games,THQ,5718,E
+527,The Saboteur,Action,2009,8.1,Pandemic Studios,Electronic Arts,9289,M
+528,Midnight Club 3: DUB Edition,Racing,2005,8.4,Rockstar Leeds,Take-Two Interactive,9801,E10+
+529,LEGO Dimensions,Action,2015,6.5,Traveller's Tales,Warner Bros. Interactive Entertainment,8832,E10+
+530,Echo Night Beyond,Adventure,2004,8.8,From Software,Indie Games,9106,T
+531,Touch Detective,Adventure,2006,6.8,BeeWorks,505 Games,7994,E10+
+532,Secret Files: Tunguska,Adventure,2008,7.6,"10tacle Studios, Fusionsphere Systems",Deep Silver,7917,T
+533,Toy Soldiers: War Chest,Action,2015,7.7,Krome Studios,Ubisoft,7391,T
+534,Harry Potter and the Goblet of Fire,Action,2005,5.8,Electronic Arts,Electronic Arts,8657,E10+
+535,Indiana Jones and the Staff of Kings,Action,2009,7,Artificial Mind and Movement,Activision,8893,T
+536,Castlevania Double Pack,Platform,2006,8.4,KCET,Konami Digital Entertainment,5924,T
+537,InuYasha: Feudal Combat,Fighting,2005,8.3,Eighting,Namco Bandai Games,6286,T
+538,Transworld Snowboarding,Sports,2002,9.2,Housemarque,Atari,7874,T
+539,SAW,Action,2009,7.4,Zombie Studios,Konami Digital Entertainment,7029,M
+540,Peter Jackson's King Kong: The Official Game of the Movie,Action,2005,8.3,Ubisoft Montpellier,Ubisoft,6282,T
+541,The Legend of Spyro: A New Beginning,Platform,2006,7.3,Krome Studios,Vivendi Games,5312,E10+
+542,Monster Madness: Battle for Suburbia,Shooter,2007,5.2,"Artificial Studios, Immersion Software & Graphics",SouthPeak Games,8781,T
+543,Def Jam Vendetta,Fighting,2003,8.5,Aki Corp.,Electronic Arts,6900,T
+544,Divinity II: Ego Draconis,Role-Playing,2009,7.7,Larian Studios,DTP Entertainment,7619,M
+545,Metro: Last Light,Action,2013,8.2,4A Games,Deep Silver,9372,T
+546,JASF: Jane's Advanced Strike Fighters,Simulation,2011,3.1,Trickstar Games,Deep Silver,7078,T
+547,Star Wars: The Force Unleashed,Action,2008,8.1,Krome Studios,LucasArts,8569,T
+548,Bleach: Shattered Blade,Fighting,2006,7.5,Polygon Magic,Sega,5576,T
+549,Midnight Club 3: DUB Edition Remix,Racing,2006,8.9,Rockstar San Diego,Take-Two Interactive,6897,E10+
+550,Deus Ex: Human Revolution,Shooter,2011,8.5,Nixxes Software,Square Enix,9179,M
+551,Prince of Persia: Warrior Within,Action,2004,8.6,Ubisoft,Ubisoft,6681,M
+552,Darkened Skye,Adventure,2002,6.4,Boston Animation,TDK Mediactive,5878,T
+553,Escape From Monkey Island,Adventure,2001,8.2,LucasArts,LucasArts,8093,T
+554,Dance Dance Revolution Universe 2,Simulation,2007,7.4,Konami,Konami Digital Entertainment,8763,E10+
+555,Star Wars: The Force Unleashed II,Action,2010,7.8,"LucasArts, Red Fly Studio",LucasArts,8258,T
+556,Lucha Libre AAA: Heroes del Ring,Fighting,2010,7.1,Immersion Software & Graphics,Konami Digital Entertainment,5995,T
+557,OutRun 2006: Coast 2 Coast,Racing,2006,8.1,Sumo Digital,Sega,8766,E
+558,Dead Rising 2: Off the Record,Action,2011,7.5,Capcom Vancouver,Capcom,8374,M
+559,Mortal Kombat X,Fighting,2015,7.3,"Warner Bros. Interactive Entertainment, NetherRealm Studios",Warner Bros. Interactive Entertainment,6583,M
+560,Wipeout: In The Zone,Misc,2011,5.6,Activision,Activision,6038,E10+
+561,The 3rd Birthday,Role-Playing,2010,6.1,HexaDrive,Square Enix,7738,M
+562,SimCity 4,Simulation,2003,8.7,Maxis,Electronic Arts,5384,E
+563,Blade II,Action,2002,6.1,Mucky Foot Productions,Activision,6259,M
+564,Midway Arcade Treasures,Misc,2003,8.2,Midway,Midway Games,7674,T
+565,Forza Horizon 2,Racing,2014,8.2,Playground Games,Microsoft Game Studios,9958,E10+
+566,Lord of Arcana,Role-Playing,2010,5.5,Access Games,Square Enix,5445,M
+567,Rogue Trooper,Shooter,2006,8.5,Rebellion,Eidos Interactive,7212,T
+568,Bionicle Heroes,Shooter,2006,5.2,Traveller's Tales,Eidos Interactive,7641,E10+
+569,Worms 3D,Strategy,2003,7.6,Team 17,Sega,9589,T
+570,Double Dragon Advance,Action,2003,8.4,Million,Atlus,7715,T
+571,Avatar: The Last Airbender,Adventure,2006,6.5,AWE Games,THQ,6677,E10+
+572,James Bond 007: Everything or Nothing,Shooter,2004,9.1,EA Redwood Shores,Electronic Arts,9949,T
+573,STORM: Frontline Nation,Strategy,2011,7.2,SimBin,Unknown,9978,E10+
+574,DmC: Devil May Cry,Action,2013,5.3,Ninja Theory,Capcom,9514,M
+575,StarCraft II: Heart of the Swarm,Strategy,2013,7.9,Blizzard Entertainment,Activision,9654,T
+576,NBA 2K11,Action,2010,8.6,Visual Concepts,Take-Two Interactive,7045,E
+577,LEGO Legends of Chima: Laval's Journey,Adventure,2013,6.6,TT Games,Warner Bros. Interactive Entertainment,8103,E10+
+578,Zoo Keeper,Puzzle,2004,7.5,"Buddiez, Inc.",Ignition Entertainment,8251,E
+579,Avatar: The Last Airbender,Adventure,2006,6.4,TOSE,THQ,7961,E
+580,EVE Online,Role-Playing,2003,7.5,CCP,CCP,5515,T
+581,Dragon Ball Z: Battle of Z,Fighting,2014,5.3,Artdink,Namco Bandai Games,6935,T
+582,Harry Potter and the Half-Blood Prince,Action,2009,7.1,EA Bright Light,Electronic Arts,5428,E10+
+583,The Lord of the Rings: The Two Towers,Action,2002,8.7,Stormfront Studios,Electronic Arts,5333,T
+584,The BIGS,Sports,2007,4.8,Blue Castle Games,Take-Two Interactive,6146,E
+585,Jimmie Johnson's Anything With an Engine,Racing,2011,6.8,Isopod Labs,Konami Digital Entertainment,8199,E10+
+586,Digimon World 2,Role-Playing,2000,7.6,Bandai,Namco Bandai Games,8135,E
+587,The Awakened Fate Ultimatum,Role-Playing,2014,7.3,Nippon Ichi Software,Nippon Ichi Software,8039,T
+588,F1 2012,Racing,2012,7.5,Codemasters,Codemasters,6931,E
+589,Serious Sam 3: BFE,Shooter,2011,8.2,Croteam,Mastertronic,7307,T
+590,Age of Mythology: The Titans,Strategy,2003,8.7,Ensemble Studios,Microsoft Game Studios,7081,T
+591,Skate,Sports,2007,8.2,EA Black Box,Electronic Arts,8609,T
+592,Titanfall 2,Shooter,2016,8,Respawn Entertainment,Electronic Arts,8512,M
+593,Madden NFL 06,Sports,2005,6.7,EA Sports,Electronic Arts,7815,E
+594,Major League Baseball 2K9,Sports,2009,4.5,2K Sports,Take-Two Interactive,6835,E
+595,Wolfenstein,Shooter,2009,7.4,"id Software, Raven Software",Activision,6440,M
+596,Star Fox Command,Shooter,2006,7.3,Q-Games,Nintendo,7671,E10+
+597,Hot Shots Tennis,Sports,2006,8.1,Clap Hanz,Sony Computer Entertainment,9698,E
+598,Aqua Teen Hunger Force: Zombie Ninja Pro-Am,Racing,2007,5.9,Creat Studios,Midway Games,9109,M
+599,NCAA March Madness 2005,Sports,2004,7.8,EA Canada,Electronic Arts,7170,E
+600,Red Faction: Guerrilla,Shooter,2009,8.1,Volition Inc.,THQ,6419,M
+601,Scene It? Lights Camera Action,Misc,2007,8.1,"Screenlife Games, WXP",Microsoft Game Studios,5311,T
+602,A Game of Thrones: Genesis,Strategy,2011,4,Cyanide,Focus Home Interactive,5769,T
+603,FIFA Soccer 11,Sports,2010,7.3,EA Sports,Electronic Arts,8896,E
+604,Spider-Man: Edge of Time,Action,2011,6.4,Beenox,Activision,9312,T
+605,The King of Fighters XIII,Fighting,2011,8.2,SNK Playmore,Rising Star Games,7491,T
+606,NPPL: Championship Paintball 2009,Shooter,2008,7.4,FUN Labs,Activision Value,6353,E10+
+607,The Evil Within,Action,2014,7.3,Tango Gameworks,Bethesda Softworks,8045,M
+608,Sniper Elite 3,Shooter,2014,7.1,Rebellion,505 Games,6064,M
+609,Total Overdose: A Gunslinger's Tale in Mexico,Shooter,2005,9,Deadline Games,Eidos Interactive,8858,M
+610,Resident Evil: Revelations,Action,2013,7.5,Capcom,Capcom,9239,M
+611,NHL 2001,Sports,2000,8.1,EA Sports,Electronic Arts,9914,E
+612,Harvest Moon: Friends of Mineral Town,Simulation,2003,9.6,TOSE,Ubisoft,7582,E
+613,Mega Man Zero Collection,Platform,2010,8.9,"Inti, Inti Creates",Capcom,6396,E
+614,Madden NFL 17,Sports,2016,4.9,EA Sports,Electronic Arts,5597,E
+615,Spider-Man 2,Action,2004,8.8,Treyarch,Activision,9927,T
+616,Monsters vs. Aliens,Action,2009,4.5,Beenox,Activision,6880,E10+
+617,Mafia III,Action,2016,4.6,Hangar 13,Take-Two Interactive,7888,M
+618,Tony Hawk's Underground,Sports,2003,8.7,Neversoft Entertainment,Activision,9263,T
+619,Thrillville: Off the Rails,Strategy,2007,0.6,Frontier Developments,LucasArts,6837,E10+
+620,Crysis 3,Shooter,2013,6.3,Crytek,Electronic Arts,8446,M
+621,God Eater Resurrection,Action,2015,7.8,"Shift, Bandai Namco Games",Namco Bandai Games,5836,T
+622,Tony Hawk's Pro Skater 2,Sports,2001,7.5,Vicarious Visions,Activision,6450,E
+623,SWAT 4,Shooter,2005,8.6,Irrational Games,Vivendi Games,5576,M
+624,F.E.A.R. 2: Project Origin,Shooter,2009,7.9,Monolith Productions,Warner Bros. Interactive Entertainment,5954,M
+625,Heavy Fire: Afghanistan,Shooter,2011,3.3,Teyon,Unknown,5019,T
+626,Vanguard Bandits,Strategy,1998,7.4,S-Neo,Human Entertainment,5674,T
+627,The House of The Dead III,Shooter,2002,7.3,Wow Entertainment,Sega,7326,M
+628,The Mummy: Tomb of the Dragon Emperor,Action,2008,6.8,Eurocom Entertainment Software,Vivendi Games,9081,T
+629,The World Ends With You,Role-Playing,2007,8.9,Jupiter Corporation,Square Enix,8314,T
+630,Downhill Domination,Racing,2003,8.9,Incognito Inc.,Codemasters,8420,T
+631,The Legend of Zelda: Twilight Princess,Action,2006,9,Nintendo,Nintendo,7735,T
+632,Tom Clancy's Splinter Cell: Double Agent,Action,2006,8.1,Ubisoft Shanghai,Ubisoft,6286,M
+633,Area 51,Shooter,2005,8.4,Midway Studios - Austin,Midway Games,7746,M
+634,Sonic Chronicles: The Dark Brotherhood,Role-Playing,2008,7.3,BioWare,Sega,7572,E
+635,"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",Action,2005,6,Traveller's Tales,Disney Interactive Studios,8321,T
+636,Shrek Super Party,Misc,2003,7.3,Mass Media,TDK Mediactive,7566,E
+637,Braid,Platform,2009,8.6,"Number None Inc., Knockout Games",Number None,7154,E10+
+638,Runaway: A Twist of Fate,Adventure,2009,8.2,Pendulo Studios,Focus Home Interactive,5425,T
+639,NBA Live 2002,Sports,2001,8.8,EA Canada,Electronic Arts,8903,E
+640,Valentino Rossi: The Game,Racing,2016,6.2,"Milestone, Milestone S.r.l",Namco Bandai Games,5277,E
+641,Sword Art Online: Hollow Fragment,Role-Playing,2014,7.6,Bandai Namco Games,Namco Bandai Games,6162,T
+642,Legacy of Kain: Defiance,Action,2003,9.3,Crystal Dynamics,Eidos Interactive,7519,M
+643,FIFA Street 2,Sports,2006,7.5,Exient Entertainment,Electronic Arts,6119,E
+644,NBA 2K8,Sports,2007,7,Visual Concepts,Take-Two Interactive,9447,E
+645,MotoGP,Racing,2002,8.4,Climax Group,THQ,6872,E
+646,Headhunter,Action,2002,7.8,Amuze,Sega,7226,M
+647,WordJong,Puzzle,2007,7.7,Magellan Interactive,White Park Bay Software,8250,E
+648,Crash Bash,Misc,2000,8.2,Eurocom Entertainment Software,Sony Computer Entertainment,9216,E
+649,Resident Evil: Outbreak,Action,2003,8.3,Capcom,Capcom,7728,M
+650,Shaun Palmer's Pro Snowboarder,Sports,2001,8.7,Dearsoft,Codemasters,7526,E
+651,Neopets Petpet Adventures: The Wand of Wishing,Adventure,2006,7.7,SCEA,Sony Computer Entertainment,8537,E
+652,Super Stardust Ultra VR,Shooter,2016,6.2,Sony Interactive Entertainment,Sony Computer Entertainment,8761,E10+
+653,Pitfall: The Lost Expedition,Platform,2004,8.6,Edge of Reality,Activision,6465,E
+654,EyeToy: AntiGrav,Sports,2004,7.8,Harmonix Music Systems,Sony Computer Entertainment,7997,E
+655,Harry Potter and the Half-Blood Prince,Action,2009,6.1,EA Bright Light,Electronic Arts,6190,E10+
+656,Tom Clancy's Rainbow Six: Vegas 2,Shooter,2008,7.8,Ubisoft Montreal,Ubisoft,6853,M
+657,Shinobi,Platform,2011,7.3,Griptonite Games,Sega,8468,T
+658,MindJack,Shooter,2011,1.2,FeelPlus,Square Enix,8504,M
+659,Guitar Hero: Aerosmith,Misc,2008,5,Neversoft Entertainment,Activision,8733,T
+660,Pulse Racer,Racing,2003,2.8,Jaleco Entertainment,Jaleco,8896,E
+661,Batman Begins,Action,2005,7.2,Eurocom Entertainment Software,Electronic Arts,7099,T
+662,Midnight Club: Los Angeles,Racing,2008,8.5,Rockstar San Diego,Take-Two Interactive,8764,T
+663,Killzone 2,Shooter,2009,8.1,Guerrilla,Sony Computer Entertainment,5296,M
+664,AC/DC LIVE: Rock Band Track Pack,Misc,2008,5.3,Harmonix Music Systems,MTV Games,6023,T
+665,Naruto: Ninja Council,Action,2003,7.1,Aspect,Tomy Corporation,6185,E10+
+666,FIFA 2001 Major League Soccer,Sports,2000,7.8,EA Sports,Electronic Arts,9437,E
+667,"Warhammer 40,000: Space Marine",Shooter,2011,7.4,Relic,THQ,6944,M
+668,Shadow The Hedgehog,Platform,2005,5.5,Sega,Sega,9553,E10+
+669,Crash: Mind Over Mutant,Platform,2008,6.5,Radical Entertainment,Vivendi Games,9556,E10+
+670,Disney Art Academy,Action,2016,6.8,Headstrong Games,Nintendo,6886,E
+671,Top Gear Rally,Racing,2003,7.6,Tantalus Interactive,Kemco,6255,E
+672,NBA Street V3,Sports,2005,8.7,EA Canada,Electronic Arts,5369,E
+673,Sonic Free Riders,Racing,2010,2.1,Sega,Sega,9829,E
+674,Fullmetal Alchemist: Trading Card Game,Misc,2007,7.5,Magellan Interactive,Destineer,9653,T
+675,Midtown Madness 3,Racing,2003,8.3,Digital Illusions,Microsoft Game Studios,6186,E
+676,Castlevania: Circle of the Moon,Platform,2001,8.5,KCEK,Konami Digital Entertainment,8467,T
+677,Spartan: Total Warrior,Action,2005,8.3,Creative Assembly,Sega,9790,M
+678,Dance on Broadway,Misc,2010,3.3,Longtail Studios,Ubisoft,9908,E10+
+679,Rayman 3: Hoodlum Havoc,Platform,2003,8.3,Ubisoft,Ubisoft,6711,E
+680,Robots,Action,2005,6,Eurocom Entertainment Software,Vivendi Games,5348,E
+681,E·O·E: Eve of Extinction,Fighting,2002,7.2,Yuke's,Eidos Interactive,6017,T
+682,James Bond 007: Blood Stone,Shooter,2010,7.4,Bizarre Creations,Activision,9539,T
+683,Digimon World Championship,Role-Playing,2008,6.5,Epics,Namco Bandai Games,8072,E
+684,Deal or No Deal,Misc,2009,5,Artefacts Studio,Zoo Games,6610,E
+685,Tony Hawk's Pro Skater 2x,Sports,2001,8.8,Treyarch,Activision,7872,T
+686,James Bond 007: Blood Stone,Shooter,2010,7.1,Bizarre Creations,Activision,9327,T
+687,Golden Sun: The Lost Age,Role-Playing,2002,9.5,Camelot Software Planning,Nintendo,9080,E
+688,NCAA Final Four 2003,Sports,2002,6,989 Sports,Sony Computer Entertainment,9474,E
+689,LEGO Marvel Super Heroes,Action,2013,8.1,TT Games,Warner Bros. Interactive Entertainment,5999,E10+
+690,Persona 4: Arena,Fighting,2012,7.3,Arc System Works,Atlus,6536,T
+691,Bleach: The 3rd Phantom,Role-Playing,2008,8,"Sega, Tom Create",Sega,9480,T
+692,G-Force,Action,2009,8,Eurocom Entertainment Software,Disney Interactive Studios,9636,E10+
+693,Mortal Kombat,Fighting,2012,7.8,NetherRealm Studios,Warner Bros. Interactive Entertainment,6534,M
+694,Max Payne 2: The Fall of Max Payne,Shooter,2003,8.4,Remedy Entertainment,Take-Two Interactive,8505,M
+695,Astro Boy,Action,2004,6.9,Sonic Team,Sega,8544,E
+696,NBA 06,Sports,2005,6.3,SCEA Sports Studio,Sony Computer Entertainment,5490,E
+697,Mafia,Action,2004,7.6,Illusion Softworks,Illusion Softworks,6004,M
+698,Plants vs. Zombies: Garden Warfare 2,Shooter,2016,7.7,PopCap,Electronic Arts,7193,E10+
+699,Scurge: Hive,Action,2006,8.6,"Orbital Media, Inc.",SouthPeak Games,8046,E10+
+700,Star Trek: Legacy,Simulation,2006,4,Mad Doc Software,Ubisoft,7732,E10+
+701,Midnight Club: LA Remix,Racing,2008,8.7,Rockstar London,Take-Two Interactive,5430,T
+702,Your Shape: Fitness Evolved 2013,Action,2012,6.3,Blue Byte,Ubisoft,8485,E10+
+703,The Legend of Zelda: Majora's Mask 3D,Action,2015,9,GREZZO,Nintendo,6814,E10+
+704,Medal of Honor: Frontline,Shooter,2002,6.9,EA LA,Electronic Arts,6084,T
+705,Call of Duty: Ghosts,Shooter,2013,2.6,Infinity Ward,Activision,6834,M
+706,Gran Turismo 5 Prologue,Racing,2007,7.1,Polyphony Digital,Sony Computer Entertainment,7210,E
+707,Call of Duty: Finest Hour,Shooter,2004,7.7,Spark Unlimited,Activision,7989,T
+708,Lara Croft and the Temple of Osiris,Action,2014,6.7,Nixxes Software,Square Enix,7826,T
+709,Get On Da Mic,Misc,2004,6.3,Artificial Mind and Movement,Eidos Interactive,7358,T
+710,Rocky: Legends,Action,2004,8.6,Venom Games,Ubisoft,9340,T
+711,NARC,Shooter,2005,2.8,Point of View,Midway Games,6576,M
+712,Dead to Rights,Shooter,2002,8.7,Namco,Electronic Arts,6722,M
+713,Monster Hunter Tri,Role-Playing,2009,8.6,Capcom,Nintendo,6821,T
+714,Star Wars: Battlefront II,Shooter,2005,9,Pandemic Studios,LucasArts,5548,T
+715,Transport Fever,Simulation,2016,7,Urban Games,Astragon,5592,T
+716,Turning Point: Fall of Liberty,Shooter,2008,6.8,Spark Unlimited,Codemasters,9775,T
+717,Baldur's Gate: Dark Alliance,Role-Playing,2001,8.3,Snowblind Studios,Virgin Interactive,8679,T
+718,FIFA World Cup Germany 2006,Sports,2006,7.3,EA Canada,Electronic Arts,7888,E
+719,Mega Man Legends 2,Adventure,2000,8.8,Capcom,Capcom,8613,E
+720,Gallop Racer 2001,Sports,2001,9.1,Tecmo,Tecmo Koei,7519,E
+721,Tales of Symphonia,Role-Playing,2003,8.5,Namco,Nintendo,9100,T
+722,Burnout,Racing,2001,7.7,Criterion Games,Acclaim Entertainment,8814,E
+723,The Golden Compass,Action,2007,4.9,Artificial Mind and Movement,Sega,5349,E10+
+724,LEGO Star Wars III: The Clone Wars,Action,2011,7.7,Traveller's Tales,LucasArts,8610,E10+
+725,Shining Force: Resurrection of the Dark Dragon,Role-Playing,2004,8.8,Amusement Vision,THQ,5722,T
+726,Age of Mythology,Strategy,2002,8.9,Ensemble Studios,Microsoft Game Studios,6197,T
+727,Ben 10 Alien Force: Vilgax Attacks,Action,2009,8.3,Papaya Studios,D3Publisher,9056,E10+
+728,True Crime: New York City,Action,2005,7.8,Exakt,Activision,7443,M
+729,Grandia Xtreme,Role-Playing,2002,6.5,Game Arts,Enix Corporation,8185,T
+730,Trinity Universe,Role-Playing,2009,7.2,"Gust, Idea Factory",Nippon Ichi Software,8542,T
+731,Dynasty Warriors 4: Xtreme Legends,Action,2003,9.1,Omega Force,Tecmo Koei,9741,T
+732,Medal of Honor: Vanguard,Shooter,2007,7,BudCat,Electronic Arts,7867,T
+733,Pirates of the Caribbean: Dead Man's Chest,Adventure,2006,8.6,Amaze Entertainment,Disney Interactive Studios,7428,T
+734,Wolfenstein,Shooter,2009,7.5,"id Software, Raven Software",Activision,7662,M
+735,AMF Xtreme Bowling,Sports,2006,4.2,"Atomic Planet Entertainment, Mud Duck Productions",Mastertronic,6063,E
+736,Baldur's Gate: Dark Alliance II,Role-Playing,2004,7.9,Black Isle Studios,Acclaim Entertainment,8260,T
+737,Marvel vs. Capcom 3: Fate of Two Worlds,Fighting,2011,7.3,Capcom,Capcom,7947,T
+738,Top Spin 3,Action,2008,7.5,Pam Development,Take-Two Interactive,8901,E
+739,Far Cry Vengeance,Shooter,2006,5.3,Ubisoft Montreal,Ubisoft,6919,M
+740,DanceMasters,Misc,2010,5.9,GCP1,Konami Digital Entertainment,5910,E10+
+741,NFL 2K2,Sports,2001,7.5,Visual Concepts,Sega,6265,E
+742,WWE All Stars,Fighting,2011,7.4,THQ,THQ,7411,T
+743,Madden NFL 06,Sports,2005,6.3,Exient Entertainment,Electronic Arts,9949,E
+744,Indiana Jones and the Staff of Kings,Action,2009,6.8,LucasArts,Activision,9251,T
+745,Call of Duty: Infinite Warfare,Shooter,2016,3,Infinity Ward,Activision,5018,M
+746,Crash Bandicoot 3: Warped,Platform,1998,8.9,Naughty Dog,Sony Computer Entertainment,8287,E
+747,Tekken 3D: Prime Edition,Fighting,2012,5.9,Arika,Nintendo,6683,T
+748,Viewtiful Joe,Action,2004,8.5,Clover Studio,Capcom,9518,T
+749,G.I. Joe: The Rise of Cobra,Action,2009,2.3,Double Helix Games,Electronic Arts,8956,T
+750,Tom Clancy's Rainbow Six 3,Shooter,2004,8.2,Ubisoft Shanghai,Ubisoft,6843,M
+751,Star Wars: Knights of the Old Republic,Role-Playing,2003,9,BioWare,LucasArts,6848,T
+752,MLB SlugFest Loaded,Sports,2004,9.5,Point of View,Midway Games,8793,T
+753,Dynasty Warriors 8: Empires,Action,2014,6.8,Koei Tecmo Games,Tecmo Koei,8469,T
+754,Ty the Tasmanian Tiger,Platform,2002,8.8,Krome Studios,Electronic Arts,5934,E
+755,Winning Eleven: Pro Evolution Soccer 2007,Sports,2006,8.3,KCET,Konami Digital Entertainment,5748,E
+756,Dragon Ball GT: Transformation,Action,2005,8.2,Webfoot Technologies,Atari,8730,E10+
+757,Gadget Racers,Racing,2000,7.4,Barnhouse Effect,Midas Interactive Entertainment,5747,E
+758,Thrillville,Strategy,2006,2.8,Frontier Developments,Atari,7969,E10+
+759,The Sims Deluxe,Simulation,2002,8.2,Maxis,Electronic Arts,9107,T
+760,MLB 2002,Sports,2001,8.1,989 Sports,Sony Computer Entertainment,8970,E
+761,Sid Meier's Civilization Revolution,Strategy,2008,7.7,Firaxis Games,Take-Two Interactive,6340,E10+
+762,Angry Birds Star Wars,Strategy,2013,6.9,Exient Entertainment,Activision,8499,E
+763,Dragon Age II,Action,2011,4.3,BioWare,Electronic Arts,5137,M
+764,Terminator Salvation,Shooter,2009,3.9,GRIN,Warner Bros. Interactive Entertainment,5925,T
+765,Need for Speed: ProStreet,Racing,2007,7.4,Exient Entertainment,Electronic Arts,5992,E
+766,Guilty Gear XX Accent Core Plus,Fighting,2009,7.3,Arc System Works,PQube,8098,T
+767,SBK Superbike World Championship,Racing,2008,8,Milestone S.r.l,Black Bean Games,9003,E10+
+768,SSX On Tour,Sports,2005,8.1,EA Montreal,Electronic Arts,6744,E
+769,MotoGP 09/10,Racing,2010,5.4,Monumental Games,Capcom,5259,E
+770,Tenchu: Stealth Assassins,Action,1997,8.8,Acquire,Activision,5147,M
+771,Vietcong: Purple Haze,Shooter,2004,8.4,Coyote Developments,Gathering of Developers,6473,M
+772,FIFA Soccer 13,Action,2012,4.1,Electronic Arts,Electronic Arts,7724,E
+773,NBA ShootOut 2004,Sports,2003,7.8,989 Sports,Sony Computer Entertainment,9694,E
+774,Mega Man Zero 2,Platform,2003,8.6,Inti,Capcom,6517,E
+775,"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",Action,2005,8.4,Traveller's Tales,Disney Interactive Studios,9119,T
+776,Tokobot,Platform,2005,7.3,Tecmo,Take-Two Interactive,5708,E
+777,Medal of Honor European Assault,Shooter,2005,7.9,EA LA,Electronic Arts,5953,T
+778,Summoner,Role-Playing,2000,7.8,Volition Inc.,THQ,9169,T
+779,Hotel Dusk: Room 215,Adventure,2007,8.6,Cing,Nintendo,6067,T
+780,Fire Emblem: Awakening,Role-Playing,2012,9.1,Intelligent Systems,Nintendo,7267,T
+781,Prince of Persia: Rival Swords,Action,2007,7.7,Ubisoft Montreal,Ubisoft,9979,T
+782,God Eater 2: Rage Burst,Role-Playing,2015,8,Shift,Namco Bandai Games,6305,T
+783,Rock Band 2,Misc,2008,8.3,Harmonix Music Systems,Electronic Arts,6542,T
+784,Off-Road Drive,Racing,2011,6.4,Avalon Style,1C Company,9623,T
+785,Spider-Man 3,Platform,2007,6.5,Vicarious Visions,Activision,8313,E10+
+786,Worms 3D,Strategy,2003,8.4,Team 17,Sega,6803,T
+787,NBA Street Homecourt,Sports,2007,6.5,EA Canada,Electronic Arts,7432,E
+788,Chromehounds,Simulation,2006,7,From Software,Sega,8690,T
+789,Leisure Suit Larry: Box Office Bust,Adventure,2009,1.7,Team 17,Codemasters,6889,M
+790,Batman: Arkham Asylum,Action,2009,8.7,Rocksteady Studios,Eidos Interactive,5857,T
+791,Secret Files: Tunguska,Adventure,2008,7.6,"10tacle Studios, Fusionsphere Systems",Koch Media,9488,T
+792,Tony Hawk: Shred,Sports,2010,6.6,Robomodo,Activision,9918,E
+793,Groovin' Blocks,Puzzle,2009,8.5,Empty Clip Studios,Zoo Games,7041,E
+794,Atelier Shallie: Alchemists of the Dusk Sea,Role-Playing,2014,7.7,Gust,Tecmo Koei,6514,E10+
+795,Looney Tunes: Back in Action,Platform,2003,7.5,Warthog,Warner Bros. Interactive Entertainment,7411,E
+796,Silent Hunter III,Simulation,2005,7.9,Ubisoft,Ubisoft,7468,T
+797,Midnight Club 3: DUB Edition Remix,Racing,2006,5.3,Rockstar San Diego,Take-Two Interactive,7045,E10+
+798,Driver 2,Action,2000,7.7,Reflections Interactive,Atari,6835,T
+799,MLB 2006,Sports,2005,9,989 Sports,Sony Computer Entertainment,6800,E
+800,Warriors Orochi,Action,2007,7.4,Omega Force,Tecmo Koei,8962,T
+801,NBA Live 2004,Sports,2003,9,EA Sports,Electronic Arts,8620,E
+802,The Crew: Wild Run,Action,2015,7.4,Ivory Tower,Ubisoft,8375,T
+803,Rayman Raving Rabbids,Misc,2007,6.1,Ubisoft Bulgaria,Ubisoft,7420,E
+804,Payday 2,Shooter,2013,6.2,Overkill Software,505 Games,8241,M
+805,KISS Pinball,Action,2001,3.8,Wildfire Studios,Take-Two Interactive,7675,T
+806,Aedis Eclipse: Generation of Chaos,Role-Playing,2006,6.5,"Neverland, Idea Factory",Idea Factory,7707,E10+
+807,Dante's Inferno,Action,2010,7.5,Visceral Games,Electronic Arts,8813,M
+808,The Simpsons Game,Action,2007,6.1,"Electronic Arts, Rebellion",Electronic Arts,5193,T
+809,Saints Row: The Third,Action,2011,7.6,Volition Inc.,THQ,9240,M
+810,Star Wars Rogue Squadron III: Rebel Strike,Simulation,2003,7.6,Factor 5,LucasArts,6664,T
+811,Prince of Persia,Action,2008,7,Ubisoft Montreal,Ubisoft,6478,T
+812,"Ed, Edd n Eddy: The Mis-Edventures",Platform,2005,7.6,Artificial Mind and Movement,Midway Games,5338,E
+813,Mario Kart: Super Circuit,Racing,2001,8.3,Intelligent Systems,Nintendo,8901,E
+814,Dragon Ball Z: Budokai Tenkaichi,Fighting,2005,8.4,Spike,Atari,8400,T
+815,Worms 4: Mayhem,Strategy,2005,9.2,Team 17,Codemasters,9884,T
+816,Marc Ecko's Getting Up: Contents Under Pressure,Action,2006,7.2,Double Helix Games,Atari,6261,M
+817,Dynasty Warriors: Gundam 2,Action,2008,7,Omega Force,Namco Bandai Games,6574,T
+818,Godzilla Unleashed: Double Smash,Action,2007,4.9,Santa Cruz Games,Atari,9307,E
+819,A Vampyre Story,Adventure,2008,8.5,Autumn Moon,Crimson Cow,6998,T
+820,Art Academy: Lessons for Everyone,Action,2012,7.6,"Nintendo, Headstrong Games",Nintendo,5266,E
+821,Tiger Woods PGA Tour 12: The Masters,Sports,2011,7.3,Electronic Arts,Electronic Arts,7551,E
+822,Samurai Western,Action,2004,7.6,Acquire,505 Games,9090,M
+823,Mortal Kombat vs. DC Universe,Fighting,2008,7.1,Midway,Midway Games,6905,T
+824,Medal of Honor Heroes,Shooter,2006,7.9,Team Fusion,Electronic Arts,8700,T
+825,The Bureau: XCOM Declassified,Shooter,2013,6.5,2K Marin,Take-Two Interactive,6822,M
+826,Army Men: Air Attack 2,Action,2000,5.3,3DO,3DO,9437,T
+827,Virtua Fighter 4: Evolution,Fighting,2003,9,Sega,Sega,9868,T
+828,Dead Rising 3,Action,2013,6.8,Capcom Vancouver,Microsoft Game Studios,7888,M
+829,Star Ocean: The Last Hope,Role-Playing,2009,7.2,"Square Enix, Tri-Ace",Square Enix,7426,T
+830,NASCAR 06: Total Team Control,Racing,2005,5.9,EA Sports,Electronic Arts,8031,E
+831,The BIGS 2,Sports,2009,6.2,Blue Castle Games,Take-Two Interactive,6008,E10+
+832,Combat Mission: Shock Force,Strategy,2007,3.3,Big Time Software,Paradox Interactive,9936,T
+833,Aggressive Inline,Sports,2002,7.8,"Z-Axis, Ltd.",Acclaim Entertainment,7096,T
+834,Dragon Rage,Shooter,2001,6.4,3DO,3DO,9998,T
+835,ATV Offroad Fury 3,Racing,2004,8.4,Climax Group,SouthPeak Games,8150,E
+836,Diablo II: Lord of Destruction,Role-Playing,2001,9.1,Blizzard North,Vivendi Games,9776,M
+837,Final Fantasy Fables: Chocobo Tales,Adventure,2006,7.4,h.a.n.d. Inc.,Ubisoft,9648,E
+838,Rayman 2: Revolution,Platform,2000,8.2,Ubisoft,Ubisoft,7741,E
+839,NBA Jam,Sports,2010,7,EA Canada,Electronic Arts,7458,E
+840,NBA 2K14,Sports,2013,4.9,Visual Concepts,Take-Two Interactive,8054,E
+841,Street Fighter Anniversary Collection,Fighting,2004,8.7,Capcom,Capcom,8528,T
+842,Dead Rising 2: Off the Record,Action,2011,5.3,Capcom Vancouver,Capcom,9225,M
+843,X-Men: Destiny,Action,2011,4.8,Silicon Knights,Activision,9551,T
+844,Sacred 3,Role-Playing,2014,4.1,Deep Silver,Deep Silver,6782,M
+845,pro evolution soccer 2011,Sports,2010,5.9,Konami,Konami Digital Entertainment,5878,E
+846,Siren,Adventure,2003,7.8,SCE Japan Studio,Sony Computer Entertainment,9119,M
+847,TimeSplitters 2,Shooter,2002,7.7,Free Radical Design,Eidos Interactive,6943,T
+848,Donkey Kong Country Returns,Platform,2010,8.6,Retro Studios,Nintendo,8577,E
+849,Kirby: Mass Attack,Platform,2011,8.6,HAL Labs,Nintendo,6429,E
+850,FIFA World Cup Germany 2006,Sports,2006,6.6,EA Canada,Electronic Arts,8277,E
+851,Dragon Ball Z: Burst Limit,Fighting,2008,7.6,"Dimps Corporation, Namco Bandai Games",Atari,7629,T
+852,Killzone 3,Shooter,2011,7.9,Guerrilla,Sony Computer Entertainment,9368,M
+853,DarkStar One,Simulation,2006,7.2,Ascaron Entertainment GmbH,Ubisoft,5168,T
+854,Far Cry Instincts,Shooter,2005,5.7,Ubisoft Montreal,Ubisoft,5584,M
+855,Shrek Swamp Kart Speedway,Racing,2002,8.9,Prolific,TDK Mediactive,5983,E
+856,X-Men Origins: Wolverine,Action,2009,7.5,Griptonite Games,Activision,8561,T
+857,The Witcher: Enhanced Edition,Role-Playing,2008,8.5,CD Projekt Red Studio,Atari,8679,M
+858,Karaoke Revolution Volume 3,Misc,2004,7.8,Harmonix Music Systems,Konami Digital Entertainment,9819,E
+859,NHL 2004,Sports,2003,7.6,EA Sports,Electronic Arts,7360,E
+860,Crash Tag Team Racing,Racing,2005,7,Radical Entertainment,Vivendi Games,8839,E10+
+861,Harry Potter and the Sorcerer's Stone,Action,2001,7.1,Griptonite Games,Electronic Arts,6024,E
+862,Soldier of Fortune: Gold Edition,Shooter,2001,6.8,Pipe Dream Interactive,Codemasters,5347,M
+863,Dragon Age: Inquisition,Role-Playing,2014,7.4,BioWare,Electronic Arts,7676,M
+864,Assassin's Creed: Revelations,Action,2011,7.4,Ubisoft Montreal,Ubisoft,9188,M
+865,NASCAR The Game: Inside Line,Racing,2012,4.5,Eutechnyx,Activision,8767,E
+866,Tom Clancy's Splinter Cell,Action,2003,8.7,Ubisoft Shanghai,Ubisoft,9950,T
+867,Street Fighter IV,Fighting,2009,7.3,Capcom,Capcom,8407,T
+868,Pro Evolution Soccer 2015,Sports,2014,5.8,Konami,Konami Digital Entertainment,9434,T
+869,Captain Morgane and the Golden Turtle,Adventure,2012,6.2,Wizarbox,Reef Entertainment,6585,T
+870,Jack Keane,Adventure,2008,7,Legacy Interactive,Kalypso Media,7502,T
+871,Strider 2,Platform,2000,8.1,Capcom,Virgin Interactive,9549,E
+872,The LEGO Movie Videogame,Action,2014,7.1,TT Games,Warner Bros. Interactive Entertainment,7290,E10+
+873,Celebrity Sports Showdown,Sports,2008,4.6,EA Canada,Electronic Arts,8989,E
+874,18 Wheeler: American Pro Trucker,Racing,2001,5.7,Acclaim Studios Cheltenham,Acclaim Entertainment,7592,E
+875,LEGO Indiana Jones: The Original Adventures,Action,2008,7.7,Traveller's Tales,LucasArts,6349,E10+
+876,Mario Hoops 3 on 3,Sports,2006,8,Square Enix,Nintendo,9431,E
+877,Wii Play,Misc,2006,6.6,Nintendo,Nintendo,8846,E
+878,Terraria,Action,2014,7.7,Engine Software,505 Games,5957,T
+879,007 Racing,Racing,2000,4.6,Eutechnyx,Electronic Arts,7291,T
+880,GrimGrimoire,Strategy,2007,7.9,Vanilla Ware,Tecmo Koei,7206,E10+
+881,Phantasy Star Universe,Role-Playing,2006,7.4,Sonic Team,Sega,6013,T
+882,Backyard Baseball,Sports,2003,9.4,Humongous Entertainment,Infogrames,8412,E
+883,MLB Power Pros 2008,Sports,2008,8.7,Konami,Konami Digital Entertainment,8996,E
+884,SimCity,Simulation,1988,2.2,Maxis,Maxis,8812,E10+
+885,Dynasty Warriors: Gundam 2,Action,2008,6.5,Omega Force,Namco Bandai Games,5283,T
+886,Mortal Kombat: Unchained,Fighting,2006,8.8,JGI Entertainment,Midway Games,5252,M
+887,Juiced 2: Hot Import Nights,Racing,2007,7.6,Juice Games,THQ,8088,T
+888,NBA 2K10,Sports,2009,7.8,Visual Concepts,Take-Two Interactive,9702,E
+889,Homefront: The Revolution,Shooter,2016,3.8,Deep Silver Dambuster Studios,Deep Silver,5078,M
+890,Virtua Tennis 2009,Sports,2009,6.3,Sumo Digital,Sega,6447,E
+891,Bad Boys: Miami Takedown,Shooter,2004,2,Blitz Games,Empire Interactive,8633,M
+892,Monopoly,Misc,2008,5.8,EA Bright Light,Electronic Arts,8817,E
+893,Root Letter,Adventure,2016,7.5,Kadokawa,PQube,5351,T
+894,Resident Evil: Revelations,Action,2013,7,Capcom,Capcom,7535,M
+895,Lost: Via Domus,Action,2008,6.4,Ubisoft Montreal,Ubisoft,6034,T
+896,Manhunt 2,Action,2007,7.8,Rockstar London,Take-Two Interactive,6548,M
+897,John Daly's ProStroke Golf,Sports,2010,4.1,Gusto Games,O-Games,7660,E
+898,Mirror's Edge Catalyst,Platform,2016,4.7,EA DICE,Electronic Arts,6597,T
+899,Brain Age: Train Your Brain in Minutes a Day,Misc,2005,7.9,Nintendo,Nintendo,7780,E
+900,Death Jr.,Platform,2005,7.3,Backbone Entertainment,Konami Digital Entertainment,9328,T
+901,Lollipop Chainsaw,Action,2012,7.1,Grasshopper Manufacture,Warner Bros. Interactive Entertainment,7008,M
+902,X-Men: The Official Game,Action,2006,7.5,"Z-Axis, Ltd.",Activision,8615,T
+903,Shaun White Snowboarding: Road Trip,Sports,2008,8.7,Ubisoft,Ubisoft,9755,E10+
+904,Dance Dance Revolution Universe 3,Simulation,2008,7.7,Konami,Konami Digital Entertainment,9961,E
+905,NHL 2K10,Sports,2009,7.9,Take-Two Interactive,Take-Two Interactive,6678,E10+
+906,Iron Man 2,Action,2010,5.2,Sega Studios San Francisco,Sega,8862,T
+907,Fist of the North Star: Ken's Rage 2,Fighting,2012,7,"Koei, Omega Force",Tecmo Koei,9205,M
+908,X-Blades,Action,2009,5.9,Gaijin Entertainment,SouthPeak Games,6279,M
+909,Pokemon Mystery Dungeon: Gates to Infinity,Role-Playing,2012,6.3,"Nintendo, Spike Chunsoft",Nintendo,7132,E
+910,Galactic Wrestling: Featuring Ultimate Muscle,Fighting,2004,8,Aki Corp.,Namco Bandai Games,7056,T
+911,MTV Music Generator 3: This Is the Remix,Misc,2004,8.6,Mix Max,Codemasters,9574,T
+912,Tamagotchi Connection: Corner Shop,Simulation,2005,7.7,NanaOn-Sha,Atari,7037,E
+913,Rez,Shooter,2001,8.3,UGA,Sony Computer Entertainment,9294,E
+914,Damnation,Shooter,2009,5.6,Blue Omega,Codemasters,7690,M
+915,Pokemon Channel,Adventure,2003,6,Ambrella,Nintendo,7379,E
+916,Sonic Rush,Platform,2005,8.5,"Dimps Corporation, Sonic Team",Sega,5422,E
+917,WWE SmackDown vs Raw 2008,Fighting,2007,7.3,Yuke's,THQ,6828,T
+918,Star Fox: Assault,Shooter,2005,8.1,Namco,Nintendo,8855,T
+919,Aquaman: Battle for Atlantis,Action,2003,3.1,TDK Mediactive,TDK Mediactive,9181,T
+920,Naruto Shippuden: Ultimate Ninja Storm 4,Fighting,2016,8.5,CyberConnect2,Namco Bandai Games,7574,T
+921,Lucha Libre AAA: Heroes del Ring,Fighting,2010,6.3,Immersion Software & Graphics,Konami Digital Entertainment,7747,T
+922,Pokemon XD: Gale of Darkness,Role-Playing,2005,8.3,Genius Sonority Inc.,Nintendo,5789,E
+923,Michael Jackson: The Experience,Misc,2011,5.8,Ubisoft,Ubisoft,6654,E10+
+924,Dark Angel: Vampire Apocalypse,Role-Playing,2001,5.6,Metro3D,Metro 3D,9050,T
+925,Phoenix Wright: Ace Attorney,Adventure,2005,9.2,Capcom,Capcom,5807,T
+926,Battlefield 4,Shooter,2013,5.8,EA DICE,Electronic Arts,5285,M
+927,Lux-Pain,Adventure,2008,6.2,Killaware,Rising Star Games,8116,T
+928,Shadow Man: 2econd Coming,Adventure,2002,7.6,Acclaim,Acclaim Entertainment,8323,M
+929,NCAA March Madness 06,Sports,2005,9.1,EA Canada,Electronic Arts,7796,E
+930,Risen 2: Dark Waters,Role-Playing,2012,5.6,Piranha Bytes,Deep Silver,9989,M
+931,Harry Potter and the Deathly Hallows - Part 2,Action,2011,5,T,Electronic Arts,9018,T
+932,Sword Art Online: Lost Song,Role-Playing,2015,7.1,"Bandai Namco Games, Artdink",Namco Bandai Games,6323,T
+933,Urban Chaos: Riot Response,Shooter,2006,8.6,Rocksteady Studios,Eidos Interactive,9923,M
+934,Uncharted: Golden Abyss,Shooter,2011,7.4,"Naughty Dog, Sony Bend",Sony Computer Entertainment,9396,T
+935,Rayman Legends,Platform,2013,8.7,Ubisoft Montpellier,Ubisoft,5855,E10+
+936,Dragon Quest Monsters: Joker,Role-Playing,2006,7.4,TOSE,Square Enix,7940,E10+
+937,Madden NFL 06,Sports,2005,7.9,EA Tiburon,Electronic Arts,7388,E
+938,Age of Empires III,Strategy,2005,7.7,Ensemble Studios,Microsoft Game Studios,6832,T
+939,Pro Evolution Soccer 2010,Sports,2009,6.7,Konami,Konami Digital Entertainment,6876,E
+940,Dragon Ball: XenoVerse,Fighting,2015,7.2,Dimps Corporation,Namco Bandai Games,8485,T
+941,Indiana Jones and the Staff of Kings,Action,2009,7.8,Amaze,Activision,8905,T
+942,Battlefield 2: Modern Combat,Shooter,2005,8.5,Digital Illusions,Electronic Arts,7613,T
+943,RedCard 20-03,Sports,2002,9,Midway,Midway Games,8775,E
+944,Homeworld,Strategy,1998,9,Relic,Vivendi Games,6685,E
+945,Corpse Party: Blood Drive,Adventure,2014,7.4,5pb,Marvelous Interactive,7831,M
+946,Resident Evil: Revelations,Action,2013,7.4,Capcom,Capcom,9756,M
+947,Prison Architect,Action,2016,6.7,"Introversion, Double Eleven",Introversion Software,6667,T
+948,Boom Blox Bash Party,Puzzle,2009,8.4,EA LA,Electronic Arts,7035,E
+949,Star Wars The Clone Wars: Republic Heroes,Action,2009,6.3,Krome Studios,LucasArts,5105,T
+950,Sly Cooper: Thieves in Time,Platform,2013,8.3,Sanzaru Games,Sony Computer Entertainment Europe,6722,E10+
+951,Headhunter: Redemption,Action,2004,6.7,Amuze,Sega,7730,M
+952,DeathSmiles,Shooter,2009,8.4,Cave,Rising Star Games,6783,T
+953,ESPN NFL 2K5,Sports,2004,9.1,Visual Concepts,Sega,7089,E
+954,Dishonored 2,Action,2016,6,Arkane Studios,Bethesda Softworks,8584,M
+955,Tornado Outbreak,Action,2009,8,Loose Cannon Studios,Konami Digital Entertainment,7071,E10+
+956,Princess Debut,Misc,2008,7.4,Cave,Cave,8939,E
+957,Hoshigami: Ruining Blue Earth Remix,Role-Playing,2007,7.9,Barnhouse Effect,505 Games,8730,T
+958,Harvest Moon: More Friends of Mineral Town,Simulation,2003,9.2,TOSE,Ubisoft,9199,E
+959,R-Type Command,Strategy,2007,6.5,Irem,Rising Star Games,6564,E10+
+960,Mario Party Advance,Misc,2005,5.4,Hudson,Nintendo,9418,E
+961,Apache: Air Assault,Simulation,2010,6.1,Gaijin Entertainment,Activision,5308,T
+962,Driver,Action,1999,8.1,Reflections Interactive,GT Interactive,8901,T
+963,Valkyrie Profile: Lenneth,Role-Playing,2006,8.4,TOSE,Square Enix,7352,T
+964,Call of Duty: Modern Warfare 3,Shooter,2011,3.4,"Infinity Ward, Sledgehammer Games",Activision,6364,M
+965,Greg Hastings' Tournament Paintball Max'd,Shooter,2006,9.2,Activision Value,Activision,9595,E10+
+966,Tak and the Power of Juju,Platform,2003,8.2,Avalanche Software,THQ,9963,E
+967,NASCAR 09,Racing,2008,7.8,EA Games,Electronic Arts,7830,E
+968,Obscure: The Aftermath,Action,2008,8.1,Hydravision,Playlogic Game Factory,7356,M
+969,Tenchu: Shadow Assassins,Action,2009,7.4,From Software,Ubisoft,7188,M
+970,Disney Sing It,Misc,2008,5.2,Zoe Mode,Disney Interactive Studios,5548,E
+971,Star Wars: The Force Unleashed,Action,2008,5.5,n-Space,LucasArts,5143,T
+972,Need for Speed Underground,Racing,2003,8.3,Black Box,Electronic Arts,7965,E
+973,Bionic Commando,Platform,2009,7.4,GRIN,Capcom,8150,M
+974,The Italian Job,Racing,2003,5.8,Climax Group,Eidos Interactive,6953,T
+975,Prince of Persia: The Sands of Time,Action,2003,8.8,Ubisoft Montreal,Ubisoft,6016,T
+976,Puzzle Quest: Challenge of the Warlords,Puzzle,2007,8,"Vicious Cycle, Infinite Interactive",D3Publisher,6698,E10+
+977,Tornado Outbreak,Action,2009,8.2,Loose Cannon Studios,Konami Digital Entertainment,5626,E10+
+978,MVP 06 NCAA Baseball,Sports,2006,8.6,EA Canada,Electronic Arts,9740,E
+979,Tom Clancy's Rainbow Six: Vegas 2,Shooter,2008,7.3,Ubisoft Montreal,Ubisoft,8369,M
+980,Madden NFL 2005,Sports,2004,7.6,EA Tiburon,Electronic Arts,6929,E
+981,Madden NFL 2004,Sports,2003,7.7,EA Tiburon,Electronic Arts,5084,E
+982,Dragon Quest V: Hand of the Heavenly Bride,Role-Playing,2008,8.5,ArtePiazza,Square Enix,8672,E10+
+983,LEGO City Undercover,Platform,2013,8.2,TT Games,Nintendo,7153,E10+
+984,Need for Speed: Porsche Unleashed,Racing,2004,7.8,Pocketeers,Zoo Digital Publishing,5022,E
+985,Arslan: The Warriors of Legend,Action,2015,6.6,Omega Force,Tecmo Koei,6173,T
+986,Code Name: S.T.E.A.M.,Strategy,2015,7.7,Intelligent Systems,Nintendo,7505,T
+987,WWE SmackDown vs. Raw 2011,Fighting,2010,6.9,Yuke's,THQ,7605,T
+988,Unreal II: The Awakening,Shooter,2004,5.3,Tantalus Interactive,Atari,5949,M
+989,IHRA Drag Racing 2004,Racing,2003,7.4,Bethesda Softworks,Bethesda Softworks,7078,E
+990,Spy Hunter,Racing,2001,7.8,Paradigm Entertainment,Midway Games,9604,T
+991,Pac-Man and the Ghostly Adventures 2,Adventure,2014,6.3,Vicious Cycle,Namco Bandai Games,9325,E10+
+992,Armored Core V,Simulation,2012,7.3,From Software,Namco Bandai Games,9221,T
+993,Serious Sam: Next Encounter,Shooter,2004,7.8,Climax Group,Global Star,9132,M
+994,Madden NFL 11,Sports,2010,6.1,EA Tiburon,Electronic Arts,6768,E
+995,Shadow of the Colossus,Action,2005,9.1,SCE Japan Studio,Sony Computer Entertainment,5222,T
+996,Motocross Mania 3,Racing,2005,3.6,Deibus Studios,Take-Two Interactive,5103,T
+997,Rocky Balboa,Sports,2007,6.6,Ubisoft,Ubisoft,8502,T
+998,Lemony Snicket's A Series of Unfortunate Events,Platform,2004,8,Griptonite Games,Activision,6760,E
+999,The Settlers: Rise of an Empire,Strategy,2007,7.7,Blue Byte,Ubisoft,6903,E10+
+1000,The Beatles: Rock Band,Misc,2009,8.7,Harmonix Music Systems,MTV Games,6476,T

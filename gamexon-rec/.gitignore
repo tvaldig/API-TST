@@ -1,0 +1,12 @@
+# Ignore .env files
+.env
+
+# Ignore compiled Python files and cache directories
+__pycache__/
+*.pyc
+
+# Ignore service account JSON files
+service-account.json
+
+# Optional: Ignore virtual environment directory
+venev/

@@ -1,29 +1,4 @@
-# GAMEXON API
 
-GAMEXON merupakan bisnis rental game dan warnet dengan cafe yang berbasis teknologi. Project ini dibuat dengan arsitektur berbasis microservice dengan perancangan Domain Driven Design. Project ini dipenuhi untuk kebutuhan mata kuliah II3160 Teknologi Sistem Terintegrasi
-
-## Quick Access
-
-| Resource                                | Link                                                                                           |
-|-----------------------------------------|------------------------------------------------------------------------------------------------|
-| **Frontend Repository**                 | [Gamexon React.js](https://github.com/tvaldig/gamexon-fe)                                      |
-| **Game Recommendation Deployment**      | [Game Recommendation API](https://gamexonrec-gvakbbc8eaekgweq.southeastasia-01.azurewebsites.net/) |
-| **Personalized Cafe Payment Deployment**| [Integrated Microservice API](https://gamexoncafe-fxdhfkaudag3eka2.southeastasia-01.azurewebsites.net/) |
-| **Game Recommendation Swagger Docs**    | [Game Recommendation API Docs](https://gamexonrec-gvakbbc8eaekgweq.southeastasia-01.azurewebsites.net/docs) |
-| **Personalized Cafe Payment Swagger Docs**| [Integrated Recommendation API Docs](https://gamexonrec-gvakbbc8eaekgweq.southeastasia-01.azurewebsites.net/docs) |
-| **Final Report**                        | [Final Report TST](https://drive.google.com/file/d/15CC2OXk5bVn7tAFTp_9UE2E6H6pg6Ldg/view?usp=drive_link) |
----
-
-## Struktur Folder
-- **`gamexon-rec`**: Microservice untuk rekomendasi game.
-- **`gamexon-cafe`**: Microservice untuk pembayaran yang dipersonalisasi (Integrasi microservice dengan teman).
-
-> **Warning:**
-> Dibawah ini merupakan panduan untuk menjalankan  **`Game Recommendation API`**!
-> untuk melihat panduan  **`Personalized Cafe Payment API`** silahkan akses folder gamexon-cafe.
-
----
- 
 # Panduan Game Recommendation API
 ## Run Local menggunakan Docker
 
